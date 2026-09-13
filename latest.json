@@ -1,6 +1,6 @@
 {
-    "version": "1.0.7.0",
-    "url": "https://github.com/saqibmursleen/axtropy-releases/releases/download/v1.0.7.0/apex-1.0.7.0.zip",
-    "sha256": "be0a6078361316d3506d419064e739582332c985f9155c1e821e23ee987a48cd",
-    "notes": "Bag resources are now spent on builds, buildings that cannot be placed stop being asked for, and two account-safety guards: no account runs without a proxy, and one that cannot hold a session is parked."
+    "version":  "1.0.7.1",
+    "url":  "https://github.com/saqibmursleen/axtropy-releases/releases/download/v1.0.7.1/apex-1.0.7.1.zip",
+    "sha256":  "1900013fbba30e69fe81dbc91b3ca221cfba76a511dbe1881a34258c2175cb3d",
+    "notes":  "The watchdog tray menu gets its \"Check for updates\" item back -- it was hidden on every machine using the default update channel, so there was no way to update on demand. Includes all of 1.0.7.0."
 }
