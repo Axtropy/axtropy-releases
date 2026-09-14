@@ -1,6 +1,6 @@
 {
-    "version": "1.0.7.4",
-    "url": "https://github.com/saqibmursleen/axtropy-releases/releases/download/v1.0.7.4/apex-1.0.7.4.zip",
-    "sha256": "232586860ac720bf936a11f4228537a83b744b795566b3ebd10ebb51dda0f005",
-    "notes": "Chaos Arena. Its seventeen structures -- the Chaos Citadel, four Relay Bunkers and twelve Border Stations -- are now reinforceable by name, id or coordinates, the same as the Baron wonders. Verified against the game screen: Border Station 10 is where the table puts it.\n\nTwo fixes to 1.0.7.3. WondersInformation is keyed by UiIndex, not by the wonder id; the two are equal for ids 1-38 so the Baron names were right by luck, and the arena had no names at all. And the wrong-kingdom guard was a range check that would have refused every arena structure -- it now asks which set a wonder belongs to and applies that set's rule, using the engine's own IsPVPKingdom for the arena."
+    "version": "1.0.7.5",
+    "url": "https://github.com/saqibmursleen/axtropy-releases/releases/download/v1.0.7.5/apex-1.0.7.5.zip",
+    "sha256": "943eedfcad29a8df1cfcb9757b75ffcefe8b389afb86b32bb0df276e56f820b3",
+    "notes": "The bag says what things are. Most gear and consumables come back from the engine with an empty name, so the Bag tab read \"#205\" eighty-one times; item names are now resolved from the game's own tables and #205 is a Wyvern Chain.\n\nNew: !armysize [20|50|100] uses an Army Size Boost, and !use <item> [count] uses anything in the bag. An ambiguous name is refused with the candidates listed rather than resolved to the closest one, quantity defaults to 1 and cannot exceed the bag, and !use ships off by default.\n\nFixed: a wonder whose name ends in a digit. \"!rein Border Station 10 5 6 9 10k\" read the station's own 10 as a troop weight and aimed at nothing."
 }
