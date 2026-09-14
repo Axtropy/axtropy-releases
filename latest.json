@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.7.1",
-    "url":  "https://github.com/saqibmursleen/axtropy-releases/releases/download/v1.0.7.1/apex-1.0.7.1.zip",
-    "sha256":  "1900013fbba30e69fe81dbc91b3ca221cfba76a511dbe1881a34258c2175cb3d",
-    "notes":  "The watchdog tray menu gets its \"Check for updates\" item back -- it was hidden on every machine using the default update channel, so there was no way to update on demand. Includes all of 1.0.7.0."
+    "version": "1.0.7.3",
+    "url": "https://github.com/saqibmursleen/axtropy-releases/releases/download/v1.0.7.3/apex-1.0.7.3.zip",
+    "sha256": "7c2af1bf8f7916e62f0adcc081a5c418054530401909ff9969a423893dcf8a14",
+    "notes": "Baron wonders. The 31 wonders of kingdom 71 -- the Royal Wonder of the Emperor war, the Royal Chalice, and 29 Baron's wonders -- are now reinforceable by name, by table id, or by coordinates, read out of the game's own shipped tables. Reinforcing one from the wrong kingdom is refused rather than sent, because the packet carries no kingdom and the same square in your home kingdom is somebody's farm.\n\nCommands. LordsHelper's short words work as aliases (pos, rss, bee, frost, joinca, pvp, all, set, wings and the rest). Its /rein and /rally set a composition where Apex's send troops: all-numeric arguments now mean the composition, anything else means a destination, so neither vocabulary can fire the other."
 }
