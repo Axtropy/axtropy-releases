@@ -1,6 +1,6 @@
 {
-    "version": "1.0.7.5",
-    "url": "https://github.com/saqibmursleen/axtropy-releases/releases/download/v1.0.7.5/apex-1.0.7.5.zip",
-    "sha256": "943eedfcad29a8df1cfcb9757b75ffcefe8b389afb86b32bb0df276e56f820b3",
-    "notes": "The bag says what things are. Most gear and consumables come back from the engine with an empty name, so the Bag tab read \"#205\" eighty-one times; item names are now resolved from the game's own tables and #205 is a Wyvern Chain.\n\nNew: !armysize [20|50|100] uses an Army Size Boost, and !use <item> [count] uses anything in the bag. An ambiguous name is refused with the candidates listed rather than resolved to the closest one, quantity defaults to 1 and cannot exceed the bag, and !use ships off by default.\n\nFixed: a wonder whose name ends in a digit. \"!rein Border Station 10 5 6 9 10k\" read the station's own 10 as a troop weight and aimed at nothing."
+    "version": "1.0.7.8",
+    "url": "https://github.com/saqibmursleen/axtropy-releases/releases/download/v1.0.7.8/apex-1.0.7.8.zip",
+    "sha256": "d9ace290601ea84a4f066a394fe42da35cd4f3d04e9feaf1a2b6681ef5755d27",
+    "notes": "Commands by mail. Every Apex verb now works as an in-game mail at the account's own prefix, with the same allowlist and the same refusals as guild chat, and the answer comes back as a reply. Existing mail is never replayed: the first pass records what is already in the mailbox and runs none of it.\n\n!abort drops whatever this account is still waiting to run. Queues only -- troops already sent are !recall's job, and the reply says so.\n\nAsking the bank. When troops are wounded, the account can work out the real heal bill from the engine, subtract what it is holding, and ask the guild bank for the rest -- by mail to a named bank, or in guild chat. Food is asked for with a margin, because upkeep spends it while the request is in flight. Off by default; prefix, bank and margin are all in the Reinforcements pane.\n\nInternally: five self-test suites were behind environment variables nobody sets and had not run in weeks. They run by default now, and the first one switched on found three verbs the dispatcher could misread. Fixed."
 }
