@@ -1,6 +1,6 @@
 {
-    "version": "1.0.7.9",
-    "url": "https://github.com/saqibmursleen/axtropy-releases/releases/download/v1.0.7.9/apex-1.0.7.9.zip",
-    "sha256": "f661330466199c33bb02bde175ee743222aa69662b829c15886fe656eafdf320",
-    "notes": "Safety first. The newbie pump nudges a stuck account every thirty seconds and runs only on newly created accounts (castle 1-3). It has a cap of 60 nudges, and the cap was being released by any transient state -- so it produced over 1,200 nudges on one account and several hundred on others, announcing that it had stopped each time. Retirement now survives that, and only a real castle level re-arms it.\n\nTravelling gear before a march. Switched before a fill, a reinforcement or a fort garrison, at whichever gear set you choose in the Reinforcements pane. Off by default; it does not switch back, and fast equip stays off because it plausibly spends an item.\n\n!abort drops whatever this account is still waiting to run - queues only, never troops.\n\nAsking the bank. When troops are wounded the account can work out the real heal bill, subtract what it holds, and ask the guild bank for the rest, by mail or in guild chat. Food is asked for with a margin because upkeep spends it while the request travels.\n\nAlso: an unknown command now says which word it does not know instead of blaming your rank, and five self-test suites that had been switched off now run on every start."
+    "version":  "1.0.8.0",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.8.0/apex-1.0.8.0.zip",
+    "sha256":  "b1efd6cf85c0cbe47715f2b57d861ba2084b7450758c48e87a60e977152252f2",
+    "notes":  "Guild chat goes from 14 working commands to 38: familiars, the three arena pairs, position, balance, settarget, compcastles, train, sendrss, randomrelocate, sendleader, reset and yell. Six of the new ones ship switched OFF and every one is rank 6. Note that yell makes EVERY armed account speak in world chat, and that train and sendrss read numbers literally where fill does not. Fixes: familiar names were showing as resource packs, and 339 self-test assertions that had silently stopped running since 4 September."
 }
