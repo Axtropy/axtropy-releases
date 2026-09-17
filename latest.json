@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.8.0",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.8.0/apex-1.0.8.0.zip",
-    "sha256":  "b1efd6cf85c0cbe47715f2b57d861ba2084b7450758c48e87a60e977152252f2",
-    "notes":  "Guild chat goes from 14 working commands to 38: familiars, the three arena pairs, position, balance, settarget, compcastles, train, sendrss, randomrelocate, sendleader, reset and yell. Six of the new ones ship switched OFF and every one is rank 6. Note that yell makes EVERY armed account speak in world chat, and that train and sendrss read numbers literally where fill does not. Fixes: familiar names were showing as resource packs, and 339 self-test assertions that had silently stopped running since 4 September."
+    "version":  "1.0.8.1",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.8.1/apex-1.0.8.1.zip",
+    "sha256":  "19341a83d3fdc0502a000b6aeda0e2ab6d62dcf90ffa322ae6f789e7f10aad11",
+    "notes":  "Plumbing, no new commands. The update channel now names its real address: the releases repo moved to the Axtropy organisation and both baked copies point there directly instead of arriving by redirect. Take this one -- older builds reach the feed only because GitHub forwards renamed repos. Also: the watchdog compiles again (the updater lives in it, so while it was broken no update change could reach a machine), and deploy.ps1 now refuses to ship a build older than its source."
 }
