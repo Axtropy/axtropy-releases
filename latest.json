@@ -1,6 +1,6 @@
 {
-    "version": "1.0.8.5",
-    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.8.5/apex-1.0.8.5.zip",
-    "sha256": "3f71f74e67767c3ed8616910794d236cb1bfda979739a757a4ad293a46ca583e",
-    "notes": "Import a guest account by its device id, from Apex or from the portal."
+    "version": "1.0.8.6",
+    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.8.6/apex-1.0.8.6.zip",
+    "sha256": "87de23a6799873b10252b037abe66c4b8c608e0d5e29e9b42e3a27163a97ff33",
+    "notes": "The Account Added card no longer stacks after a device-id import, and the Health cards read correctly."
 }
