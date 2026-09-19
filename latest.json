@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.8.4",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.8.4/apex-1.0.8.4.zip",
-    "sha256":  "d6bcf71d40b69c02cce59e33152f63d1770671ebf59e3f443260513e3d617e0f",
-    "notes":  "Import and remove accounts from the portal. An operator can also change the settings of a farm they run themselves, and the Portal column now defaults to on."
+    "version": "1.0.8.5",
+    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.8.5/apex-1.0.8.5.zip",
+    "sha256": "3f71f74e67767c3ed8616910794d236cb1bfda979739a757a4ad293a46ca583e",
+    "notes": "Import a guest account by its device id, from Apex or from the portal."
 }
