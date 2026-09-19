@@ -1,6 +1,6 @@
 {
-    "version": "1.0.8.2",
-    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.8.2/apex-1.0.8.2.zip",
-    "sha256": "5fe72fdda6dd544fe2abb6dc68af74b7dc40f530fb01074add2b9bd0be224fe1",
-    "notes": "Three things you can see. Health now has a Sign out button beside the operator it names -- before this a machine could show who was signed in and offer no way to stop being them, because the session is resumed from a stored blob on every launch. It stops the fleet, forgets the session and closes Apex, and the confirm says all three. The Apex window now fits the screen it opens on: it asked for a 1440x900 client area and took whatever that became after DPI scaling, so on a scaled display it hung below the work area and the status bar went with it. And a canary account the game bans is now deleted from the fleet instead of left in it -- settings backed up first, only ever the account this machine recorded as its own canary, and only on a ban. Every ban is also written to banned_accounts_log.txt, so an account that was removed and an account that was never there no longer read the same."
+    "version": "1.0.8.3",
+    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.8.3/apex-1.0.8.3.zip",
+    "sha256": "b46cae92deaa6409b3e5fdf946f61ec86326552aed0c5c11fcf4c0820458a725",
+    "notes": "Finishes the Sign out button that 1.0.8.2 shipped half of. It stopped the fleet and forgot the session correctly, then closed Apex and stopped there -- so signing in as anyone else meant going to find the shortcut again, which is the step the button existed to remove. Apex now starts itself back up at the sign-in screen. It waits for the old process to exit first, because Apex holds a single-instance lock until it does and a copy started any sooner would refuse itself with \"Apex is already open\" -- which would look exactly like sign out being broken. Take this one if you took 1.0.8.2."
 }
