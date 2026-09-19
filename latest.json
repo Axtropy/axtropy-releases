@@ -1,6 +1,6 @@
 {
-    "version": "1.0.8.3",
-    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.8.3/apex-1.0.8.3.zip",
-    "sha256": "b46cae92deaa6409b3e5fdf946f61ec86326552aed0c5c11fcf4c0820458a725",
-    "notes": "Finishes the Sign out button that 1.0.8.2 shipped half of. It stopped the fleet and forgot the session correctly, then closed Apex and stopped there -- so signing in as anyone else meant going to find the shortcut again, which is the step the button existed to remove. Apex now starts itself back up at the sign-in screen. It waits for the old process to exit first, because Apex holds a single-instance lock until it does and a copy started any sooner would refuse itself with \"Apex is already open\" -- which would look exactly like sign out being broken. Take this one if you took 1.0.8.2."
+    "version":  "1.0.8.4",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.8.4/apex-1.0.8.4.zip",
+    "sha256":  "d6bcf71d40b69c02cce59e33152f63d1770671ebf59e3f443260513e3d617e0f",
+    "notes":  "Import and remove accounts from the portal. An operator can also change the settings of a farm they run themselves, and the Portal column now defaults to on."
 }
