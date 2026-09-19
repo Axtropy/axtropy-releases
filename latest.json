@@ -1,6 +1,6 @@
 {
-    "version": "1.0.8.6",
-    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.8.6/apex-1.0.8.6.zip",
-    "sha256": "87de23a6799873b10252b037abe66c4b8c608e0d5e29e9b42e3a27163a97ff33",
-    "notes": "The Account Added card no longer stacks after a device-id import, and the Health cards read correctly."
+    "version": "1.0.8.7",
+    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.8.7/apex-1.0.8.7.zip",
+    "sha256": "1ca3fce219c36410d0ad3aa124eadf6c667ec0467c784234a2429c13693666c7",
+    "notes": "The Army tab's troop training is readable at last: a Selected Chapter dropdown over the sixteen troops by name, folded into T1-T4 groups that open only when that tier has something queued."
 }
