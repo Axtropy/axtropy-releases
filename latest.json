@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.9.3",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.9.3/apex-1.0.9.3.zip",
-    "sha256":  "9724486c2c2f5acb4c97050128c27c440ab6b60c37afeda8e8e93fdf20753a52",
-    "notes":  "A hosted organisation's orders now reach the machine that runs them."
+    "version":  "1.0.9.4",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.9.4/apex-1.0.9.4.zip",
+    "sha256":  "3a97eef982304dd789422dd0da152bee2f1884536c723425c930c0a11e6ae6b5",
+    "notes":  "Scarcest resource first, orders looked for every ten seconds, and egress shown as a percentage."
 }
