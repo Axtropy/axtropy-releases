@@ -1,6 +1,6 @@
 {
-    "version": "1.0.8.9",
-    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.8.9/apex-1.0.8.9.zip",
-    "sha256": "e79304b8440e4263c01f790cdf7c43a8eaaa7bb0cec6368f37fc8a28e42fc013",
-    "notes": "Stop actually stops -- 1.0.8.8's Stop button set a flag and did nothing else. It now cancels the supply queue (the old !abort aimed at the guild bank's queue, which supply sends never use). A stuck bank is replaced from a ranked reserve after three minutes. Each supplier row shows which order it is filling. A send waits for a free march slot. Order tails go out at a million or not at all. A customer who leaves the guild ends the order. Carts already dispatched still cannot be recalled."
+    "version":  "1.0.9.0",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.9.0/apex-1.0.9.0.zip",
+    "sha256":  "c7b885436fa09a961133c9a960bf57c30790983501f84092d43fa09dd7f6ecab",
+    "notes":  "Supply orders from the portal. Delivery measured against castle stock as well as the bag. A busy hour no longer cancels an order."
 }
