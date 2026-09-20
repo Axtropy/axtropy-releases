@@ -1,6 +1,6 @@
 {
-    "version": "1.0.8.7",
-    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.8.7/apex-1.0.8.7.zip",
-    "sha256": "1ca3fce219c36410d0ad3aa124eadf6c667ec0467c784234a2429c13693666c7",
-    "notes": "The Army tab's troop training is readable at last: a Selected Chapter dropdown over the sixteen troops by name, folded into T1-T4 groups that open only when that tier has something queued."
+    "version": "1.0.8.8",
+    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.8.8/apex-1.0.8.8.zip",
+    "sha256": "f0053d0d714f8065aad4597d8169e93b3109545b0d93932b05de37d73112219a",
+    "notes": "Stop actually stops: it now sends !abort and recalls carts. Supply orders survive a restart and resume at the exact shortfall. An order never closes below 100%. Banks are picked by kingdom, marches out, idle, stock, then tax. Suppliers will not send from more than 2 tiles away. !boots <tier> puts a wing on any outbound march. Typing a command in Apex no longer needs the guild allowlist."
 }
