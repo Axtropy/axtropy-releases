@@ -1,6 +1,6 @@
 {
-    "version": "1.0.8.8",
-    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.8.8/apex-1.0.8.8.zip",
-    "sha256": "f0053d0d714f8065aad4597d8169e93b3109545b0d93932b05de37d73112219a",
-    "notes": "Stop actually stops: it now sends !abort and recalls carts. Supply orders survive a restart and resume at the exact shortfall. An order never closes below 100%. Banks are picked by kingdom, marches out, idle, stock, then tax. Suppliers will not send from more than 2 tiles away. !boots <tier> puts a wing on any outbound march. Typing a command in Apex no longer needs the guild allowlist."
+    "version": "1.0.8.9",
+    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.8.9/apex-1.0.8.9.zip",
+    "sha256": "e79304b8440e4263c01f790cdf7c43a8eaaa7bb0cec6368f37fc8a28e42fc013",
+    "notes": "Stop actually stops -- 1.0.8.8's Stop button set a flag and did nothing else. It now cancels the supply queue (the old !abort aimed at the guild bank's queue, which supply sends never use). A stuck bank is replaced from a ranked reserve after three minutes. Each supplier row shows which order it is filling. A send waits for a free march slot. Order tails go out at a million or not at all. A customer who leaves the guild ends the order. Carts already dispatched still cannot be recalled."
 }
