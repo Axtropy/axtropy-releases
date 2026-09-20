@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.9.0",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.9.0/apex-1.0.9.0.zip",
-    "sha256":  "c7b885436fa09a961133c9a960bf57c30790983501f84092d43fa09dd7f6ecab",
-    "notes":  "Supply orders from the portal. Delivery measured against castle stock as well as the bag. A busy hour no longer cancels an order."
+    "version":  "1.0.9.1",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.9.1/apex-1.0.9.1.zip",
+    "sha256":  "b9853314b3fde8771cf2d6317cdeda1f179d8e7f699e1e94e704765ae31811b9",
+    "notes":  "One order, one machine. A supply order is claimed before it is started, so two machines cannot both deliver it."
 }
