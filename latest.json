@@ -1,6 +1,6 @@
 {
-    "version": "1.0.9.5",
-    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.9.5/apex-1.0.9.5.zip",
-    "sha256": "4bee4870a5d8c408fd56fd1157de9b8789b2b582b88882e87ca9c5e66de9b6a3",
-    "notes": "Account Info sits in the drawer: game id, device id, creation time and creation IP, each copyable on click. Device ids copy for one account, a selection or the whole fleet from the right-click menu. And accounts import by device id in bulk, one per line, with a wait you choose between each. Also: engine messages with their own line breaks no longer collapse into one run-on line."
+    "version":  "1.0.9.6",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.9.6/apex-1.0.9.6.zip",
+    "sha256":  "add26a6362b5a6e5faaa9b3fe034af315d4cf4dbfa1b47e623d8eb95fe4014e8",
+    "notes":  "A supply crew now comes only from the ordering organisation's own banks."
 }
