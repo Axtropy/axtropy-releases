@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.9.1",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.9.1/apex-1.0.9.1.zip",
-    "sha256":  "b9853314b3fde8771cf2d6317cdeda1f179d8e7f699e1e94e704765ae31811b9",
-    "notes":  "One order, one machine. A supply order is claimed before it is started, so two machines cannot both deliver it."
+    "version":  "1.0.9.2",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.9.2/apex-1.0.9.2.zip",
+    "sha256":  "15962e78e5b53fa9a2425b07fe86ccd1ba542b47b06df1a59ce08a42e8a3f61b",
+    "notes":  "Speed and bank count are sold with the package, and package slots may be fractions of a billion."
 }
