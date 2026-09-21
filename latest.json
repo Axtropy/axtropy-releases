@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.9.8",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.9.8/apex-1.0.9.8.zip",
-    "sha256":  "f504f36f8108dfd314e4dc2262c9c69e44f4742d51cebd2c613ccf5661f2a58a",
-    "notes":  "Orders are picked up on their own clock, not the settings tick."
+    "version":  "1.0.9.9",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.9.9/apex-1.0.9.9.zip",
+    "sha256":  "7233712812381cfbc499df28801c5feeab8d94954e97bfba06de19aa3a66d74a",
+    "notes":  "A crew is the banks you assigned, not the ones that happen to be healthy."
 }
