@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.10.0",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.10.0/apex-1.0.10.0.zip",
-    "sha256":  "50825c5dbdf1e7824c3a86797c33981b65c2f38849c1b1b7e69a0e888b63b3c3",
-    "notes":  "Orders are a card wall instead of one long column, and a finished order no longer owns its banks."
+    "version":  "1.1.0.0",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.1.0.0/apex-1.1.0.0.zip",
+    "sha256":  "b72bf497e4a88edd216d30bb42ea70548e93258dd2191f3896460465fd944b6c",
+    "notes":  "A customer can watch an order move instead of seeing 0% until it finishes."
 }
