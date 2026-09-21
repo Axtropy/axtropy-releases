@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.9.6",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.9.6/apex-1.0.9.6.zip",
-    "sha256":  "add26a6362b5a6e5faaa9b3fe034af315d4cf4dbfa1b47e623d8eb95fe4014e8",
-    "notes":  "A supply crew now comes only from the ordering organisation's own banks."
+    "version":  "1.0.9.7",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.0.9.7/apex-1.0.9.7.zip",
+    "sha256":  "7ad7f4246c1a15211c482690f6288eb3a66c509eb921221c950ea7204eb9bd09",
+    "notes":  "Banks appear faster after a key is pasted."
 }
