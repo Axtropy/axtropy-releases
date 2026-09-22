@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.0.0",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.1.0.0/apex-1.1.0.0.zip",
-    "sha256":  "b72bf497e4a88edd216d30bb42ea70548e93258dd2191f3896460465fd944b6c",
-    "notes":  "A customer can watch an order move instead of seeing 0% until it finishes."
+    "version":  "1.2.0.0",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.2.0.0/apex-1.2.0.0.zip",
+    "sha256":  "f2c21f932e0e49e944540d5b4a5fe87edc106ebc4c2bbb3cdf9d66e7f2574763",
+    "notes":  "Apex now claims granted buildings (gift boxes) automatically, using the game BuildBegin request. An unclaimed grant does not satisfy a castle requirement server-side, which was silently blocking castle upgrades. Also: the castle line names a granted-but-unclaimed building instead of reporting it as owned, and Magic Gate event lookups are per-track. Disable with APEX_AUTOCLAIM=0."
 }
