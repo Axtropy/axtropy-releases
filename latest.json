@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.0.0",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.2.0.0/apex-1.2.0.0.zip",
-    "sha256":  "f2c21f932e0e49e944540d5b4a5fe87edc106ebc4c2bbb3cdf9d66e7f2574763",
-    "notes":  "Apex now claims granted buildings (gift boxes) automatically, using the game BuildBegin request. An unclaimed grant does not satisfy a castle requirement server-side, which was silently blocking castle upgrades. Also: the castle line names a granted-but-unclaimed building instead of reporting it as owned, and Magic Gate event lookups are per-track. Disable with APEX_AUTOCLAIM=0."
+    "version":  "1.3.0.0",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.3.0.0/apex-1.3.0.0.zip",
+    "sha256":  "060927d7b6692e082032208474a87bec310cbee9504ad17035a91dfce1583b3c",
+    "notes":  "Apex now spends event coins on War Prep Chests whenever an event shop sells them. New per-account switch in the Growth section: Buy War Prep Chests, on by default. Turn it off on main accounts so their coins are kept for the better shop items. Buys one chest first, checks the coins moved, then buys the rest; stops fleet-wide if coins ever go to another item."
 }
