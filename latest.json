@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.0.0",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.3.0.0/apex-1.3.0.0.zip",
-    "sha256":  "060927d7b6692e082032208474a87bec310cbee9504ad17035a91dfce1583b3c",
-    "notes":  "Apex now spends event coins on War Prep Chests whenever an event shop sells them. New per-account switch in the Growth section: Buy War Prep Chests, on by default. Turn it off on main accounts so their coins are kept for the better shop items. Buys one chest first, checks the coins moved, then buys the rest; stops fleet-wide if coins ever go to another item."
+    "version":  "1.4.0.0",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.4.0.0/apex-1.4.0.0.zip",
+    "sha256":  "62cba3c6cf89f7efd4b8366ba1bc739a31b47079bcad0a0dd02b24f40cfc2fa3",
+    "notes":  "Event Shop: each account has a Buy list and a Leftover list, set any time. Leftover coins are spent in the last hours before a shop closes. The War Prep Chest switch becomes a Leftover item. Bulk apply copies only the Event Shop settings. Proxies: stopped and new accounts get the least-used proxy. Mass Relocator: its type list works with the mouse, the numbers are labelled, and it opens as part of Apex. Engine windows no longer show as separate apps. New tag and Rename use an Apex dialog. Right-click has Open folder. Notifications come from Apex."
 }
