@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.0.0",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.4.0.0/apex-1.4.0.0.zip",
-    "sha256":  "62cba3c6cf89f7efd4b8366ba1bc739a31b47079bcad0a0dd02b24f40cfc2fa3",
-    "notes":  "Event Shop: each account has a Buy list and a Leftover list, set any time. Leftover coins are spent in the last hours before a shop closes. The War Prep Chest switch becomes a Leftover item. Bulk apply copies only the Event Shop settings. Proxies: stopped and new accounts get the least-used proxy. Mass Relocator: its type list works with the mouse, the numbers are labelled, and it opens as part of Apex. Engine windows no longer show as separate apps. New tag and Rename use an Apex dialog. Right-click has Open folder. Notifications come from Apex."
+    "version":  "1.4.0.1",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.4.0.1/apex-1.4.0.1.zip",
+    "sha256":  "c5c21874a8c04484bc39038c32d3c6ab554230d1b975745afdba8deb6d2dcb80",
+    "notes":  "Stopped accounts stay stopped: the stuck-tutorial recovery no longer starts accounts that are logged out. Updates now stop the whole fleet and wait for every account to log out before Apex closes, instead of closing it with accounts running. This takes effect from the update after this one, because the updater that applies this one is the old one."
 }
