@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.0.2",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.4.0.2/apex-1.4.0.2.zip",
-    "sha256":  "3410dea41a3e2285be72d64fac6f5a52ca8903f2a4ccc7f0995c3b24505de744",
-    "notes":  "Account settings can be exported to a file and imported onto an existing account on another Apex; proxy, connection settings and passcodes never travel. Tags can carry a settings profile, including Build Mode, that their accounts follow while keeping their own overrides. Supply records: order numbers no longer restart at #1, totals always match the list, orders can be deleted or cleared, and each order shows what was delivered per resource and by which bank. The account drawer uses grids and tables instead of one-per-line lists and has a Troops section with the per-chapter training table."
+    "version":  "1.4.0.3",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.4.0.3/apex-1.4.0.3.zip",
+    "sha256":  "136d26eb969120fc48ca1d797184548edeba58b6a6ed2b8b61818b0e1b0f214b",
+    "notes":  "Accounts that fail to start after a restart are started again: two minutes after the launch start, each account the engine dropped is started once more, one at a time, 15 seconds apart. Engine notices dismiss themselves after 7 seconds, or 5 seconds each when several are queued, and hovering pauses them. Apex opens maximised every time it starts."
 }
