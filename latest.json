@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.0.1",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.4.0.1/apex-1.4.0.1.zip",
-    "sha256":  "c5c21874a8c04484bc39038c32d3c6ab554230d1b975745afdba8deb6d2dcb80",
-    "notes":  "Stopped accounts stay stopped: the stuck-tutorial recovery no longer starts accounts that are logged out. Updates now stop the whole fleet and wait for every account to log out before Apex closes, instead of closing it with accounts running. This takes effect from the update after this one, because the updater that applies this one is the old one."
+    "version":  "1.4.0.2",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.4.0.2/apex-1.4.0.2.zip",
+    "sha256":  "3410dea41a3e2285be72d64fac6f5a52ca8903f2a4ccc7f0995c3b24505de744",
+    "notes":  "Account settings can be exported to a file and imported onto an existing account on another Apex; proxy, connection settings and passcodes never travel. Tags can carry a settings profile, including Build Mode, that their accounts follow while keeping their own overrides. Supply records: order numbers no longer restart at #1, totals always match the list, orders can be deleted or cleared, and each order shows what was delivered per resource and by which bank. The account drawer uses grids and tables instead of one-per-line lists and has a Troops section with the per-chapter training table."
 }
