@@ -1,6 +1,6 @@
 {
-    "version":  "1.5.0.0",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.5.0.0/apex-1.5.0.0.zip",
-    "sha256":  "856415530ab22c5f5eb48cc961b98378bff05410b8984f55f3df1e591438e80e",
-    "notes":  "Building: an account in Apex build mode now has exactly one builder. Apex follows the castle's own requirements one level at a time, builds a missing Barracks or Academy when the castle is waiting on a seal, and the engine no longer builds on the side. Buildings whose saved position was lost are found on the map and upgraded again. When the first build queue is busy Apex uses the second, and Apex-mode accounts rent the second queue with gems. A target the server refuses is rested for 30 minutes after a restart, not five and a half hours. Research tab: the Research Tree list is shown by name with a switch per tree."
+    "version":  "1.5.0.1",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.5.0.1/apex-1.5.0.1.zip",
+    "sha256":  "d1f8e54b99bb920e931d02d76be095fe270c6575bb03e77397ba609a806972b0",
+    "notes":  "Building fixes. A building the game has reserved (such as a new account's Academy) is now built on its reserved square instead of a second copy elsewhere. The builder no longer holds up the fleet while it waits for the server's answer, so large fleets keep their other automation on time. Gift-box claims and building requests no longer mix up each other's replies. Upgrades always go to the placed building, never to an unclaimed gift beside it. Building costs and requirements reload when the game updates its files, without a restart."
 }
