@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.0.6",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.4.0.6/apex-1.4.0.6.zip",
-    "sha256":  "075136dd9cd6ca2d08b26c3e6458e9eb8a937b24740697aa5e722cf113c63b70",
-    "notes":  "Supply: each bank sends one resource first (gold, ore, wood, stone, then food) and uses spare room for what is left, so a whole order goes out in the first round instead of in shrinking baskets. Baskets close about 10 seconds sooner, and one missed reading no longer drops a bank from an order. Guest import waits for the engine before logging in. Adds a read-only Snow Beast check (APEX_PET_PROBE=1)."
+    "version":  "1.5.0.0",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.5.0.0/apex-1.5.0.0.zip",
+    "sha256":  "856415530ab22c5f5eb48cc961b98378bff05410b8984f55f3df1e591438e80e",
+    "notes":  "Building: an account in Apex build mode now has exactly one builder. Apex follows the castle's own requirements one level at a time, builds a missing Barracks or Academy when the castle is waiting on a seal, and the engine no longer builds on the side. Buildings whose saved position was lost are found on the map and upgraded again. When the first build queue is busy Apex uses the second, and Apex-mode accounts rent the second queue with gems. A target the server refuses is rested for 30 minutes after a restart, not five and a half hours. Research tab: the Research Tree list is shown by name with a switch per tree."
 }
