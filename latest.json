@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.0.5",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.4.0.5/apex-1.4.0.5.zip",
-    "sha256":  "a504da510a4929adc2faa8750586befd99d037aa116ca3ccda6081d98b565e2d",
-    "notes":  "Accounts stuck at Castle 6 with no Barracks now build one, then a missing Academy, instead of only upgrading buildings they already have."
+    "version":  "1.4.0.6",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.4.0.6/apex-1.4.0.6.zip",
+    "sha256":  "075136dd9cd6ca2d08b26c3e6458e9eb8a937b24740697aa5e722cf113c63b70",
+    "notes":  "Supply: each bank sends one resource first (gold, ore, wood, stone, then food) and uses spare room for what is left, so a whole order goes out in the first round instead of in shrinking baskets. Baskets close about 10 seconds sooner, and one missed reading no longer drops a bank from an order. Guest import waits for the engine before logging in. Adds a read-only Snow Beast check (APEX_PET_PROBE=1)."
 }
