@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.0.4",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.4.0.4/apex-1.4.0.4.zip",
-    "sha256":  "f6b0634291f5ea58ea35f8de823593127c28e57d3cda0bb5d68f0f5300e42944",
-    "notes":  "A proxy Apex assigns to a new or imported account now takes effect without pressing Reload: the account's settings are reloaded into the engine before it is restarted. A newly imported account gets its proxy within about 15 seconds instead of waiting for its turn in the fleet pass."
+    "version":  "1.4.0.5",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.4.0.5/apex-1.4.0.5.zip",
+    "sha256":  "a504da510a4929adc2faa8750586befd99d037aa116ca3ccda6081d98b565e2d",
+    "notes":  "Accounts stuck at Castle 6 with no Barracks now build one, then a missing Academy, instead of only upgrading buildings they already have."
 }
