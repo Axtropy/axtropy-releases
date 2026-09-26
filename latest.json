@@ -1,6 +1,6 @@
 {
-    "version":  "1.5.0.3",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.5.0.3/apex-1.5.0.3.zip",
-    "sha256":  "75d645e10cbec91f1b78a6bc4ad9ae0de28b5b940c17f1e2accd69b963c805dc",
-    "notes":  "Portal settings changes are applied only by the machine running the account. Accounts can be started and stopped from the portal; a stop stays off after a restart."
+    "version":  "1.5.1.0",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.5.1.0/apex-1.5.1.0.zip",
+    "sha256":  "b552261c04e04a5d36783c1d32c3928a6b08c505d4839f3c1f6acd027ee50bd8",
+    "notes":  "Fixed tags with sub-tags. Apex's own settings and named lists (familiars, Guild Fest and Exchange missions, research trees, troops to train) can be set from the portal. A machine publishes only the accounts it has loaded."
 }
