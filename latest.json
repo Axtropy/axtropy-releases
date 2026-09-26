@@ -1,6 +1,6 @@
 {
-    "version":  "1.5.0.1",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.5.0.1/apex-1.5.0.1.zip",
-    "sha256":  "d1f8e54b99bb920e931d02d76be095fe270c6575bb03e77397ba609a806972b0",
-    "notes":  "Building fixes. A building the game has reserved (such as a new account's Academy) is now built on its reserved square instead of a second copy elsewhere. The builder no longer holds up the fleet while it waits for the server's answer, so large fleets keep their other automation on time. Gift-box claims and building requests no longer mix up each other's replies. Upgrades always go to the placed building, never to an unclaimed gift beside it. Building costs and requirements reload when the game updates its files, without a restart."
+    "version":  "1.5.0.2",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.5.0.2/apex-1.5.0.2.zip",
+    "sha256":  "714471800e46c56f3f2d90bdfb8f6dac4297e979383abc1622d7a1eb09a8c75e",
+    "notes":  "Supply: an operator's own supplier banks now start an order only when they can fill all of it. When they cannot, Axtropy's banks deliver it and the operator's balance is charged the nearest Axtropy package price. Operators can make any of their accounts a supplier from the portal. An order that is waiting now says why."
 }
