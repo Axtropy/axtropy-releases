@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.0.1",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.6.0.1/apex-1.6.0.1.zip",
-    "sha256":  "c000e8737d625222d92ddb3ccaf77c858e2bc22447859e789ccf0f17f8b5de94",
-    "notes":  "Set owner from Apex's menu on Axtropy's machine: move an account between the organisations the machine hosts, with the allowance checked and rented accounts refused. Owner changes made in the super-admin panel now reach machines. A Leaders account owned by another organisation is labelled Leaders."
+    "version":  "1.6.0.2",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.6.0.2/apex-1.6.0.2.zip",
+    "sha256":  "fc9af25f1f27e5bdf448a0d9623e51b8c8204163ad69186fb05edc8df1f0fbd5",
+    "notes":  "Portal imports sign in again on a machine that was already signed in to IGG: since 1.6.0.0 they failed with 'IGG did not answer the sign-in within 30 seconds' without typing anything. A refused sign-in now says what IGG showed, or names the likely cause (wrong email or password)."
 }
