@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.0.2",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.6.0.2/apex-1.6.0.2.zip",
-    "sha256":  "fc9af25f1f27e5bdf448a0d9623e51b8c8204163ad69186fb05edc8df1f0fbd5",
-    "notes":  "Portal imports sign in again on a machine that was already signed in to IGG: since 1.6.0.0 they failed with 'IGG did not answer the sign-in within 30 seconds' without typing anything. A refused sign-in now says what IGG showed, or names the likely cause (wrong email or password)."
+    "version":  "1.6.0.3",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.6.0.3/apex-1.6.0.3.zip",
+    "sha256":  "e931cfa8075be888ac44ab8ded1092fca1a4b3b28289c936ecd4ddc81066e39d",
+    "notes":  "No more engine error box after a restart: Apex waits for a message box to finish opening before answering it, and answers the engine's Windows Forms Error box Ignore. Auto-start starts every account whose Auto box is ticked, including portal imports, and retries a failed start once. IGG import continues its own sign-in and backs off once from IGG's human check."
 }
