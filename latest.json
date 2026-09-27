@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.0.0",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.6.0.0/apex-1.6.0.0.zip",
-    "sha256":  "f07fcedf0a3e2da6eb928d94164fbf7c43cdcc02eebbc5354470f0cb3219b94b",
-    "notes":  "Leader orders from the portal: Leaders bots move next to the target and each sends its Leader once. Castle Leader send through the engine's own march. Protection tab works again, including with war mode on. War mode switches on the war features. Canary toggle on the Health tab. Import pipeline hardening. Apex restarts itself if the startup asset update hangs."
+    "version":  "1.6.0.1",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.6.0.1/apex-1.6.0.1.zip",
+    "sha256":  "c000e8737d625222d92ddb3ccaf77c858e2bc22447859e789ccf0f17f8b5de94",
+    "notes":  "Set owner from Apex's menu on Axtropy's machine: move an account between the organisations the machine hosts, with the allowance checked and rented accounts refused. Owner changes made in the super-admin panel now reach machines. A Leaders account owned by another organisation is labelled Leaders."
 }
