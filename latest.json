@@ -1,6 +1,6 @@
 {
-    "version":  "1.5.1.0",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.5.1.0/apex-1.5.1.0.zip",
-    "sha256":  "b552261c04e04a5d36783c1d32c3928a6b08c505d4839f3c1f6acd027ee50bd8",
-    "notes":  "Fixed tags with sub-tags. Apex's own settings and named lists (familiars, Guild Fest and Exchange missions, research trees, troops to train) can be set from the portal. A machine publishes only the accounts it has loaded."
+    "version":  "1.6.0.0",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.6.0.0/apex-1.6.0.0.zip",
+    "sha256":  "f07fcedf0a3e2da6eb928d94164fbf7c43cdcc02eebbc5354470f0cb3219b94b",
+    "notes":  "Leader orders from the portal: Leaders bots move next to the target and each sends its Leader once. Castle Leader send through the engine's own march. Protection tab works again, including with war mode on. War mode switches on the war features. Canary toggle on the Health tab. Import pipeline hardening. Apex restarts itself if the startup asset update hangs."
 }
