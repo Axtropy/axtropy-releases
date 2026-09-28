@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.0.3",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v1.6.0.3/apex-1.6.0.3.zip",
-    "sha256":  "e931cfa8075be888ac44ab8ded1092fca1a4b3b28289c936ecd4ddc81066e39d",
-    "notes":  "No more engine error box after a restart: Apex waits for a message box to finish opening before answering it, and answers the engine's Windows Forms Error box Ignore. Auto-start starts every account whose Auto box is ticked, including portal imports, and retries a failed start once. IGG import continues its own sign-in and backs off once from IGG's human check."
+    "version": "1.7.0.0",
+    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v1.7.0.0/apex-1.7.0.0.zip",
+    "sha256": "3adff1916f2f9865bffed2fce2e2d3c312b56940d53110983664451be3318a57",
+    "notes": "An Events section in each account's Settings: one card per event (board events such as Summer Expedition, Labyrinth, Kingdom Tycoon, Pinball, Race, Limited Pass, Guild Fest, daily rewards) with Off / Free only / Use tokens too, and Copy to selected accounts. A redeem list for board event shops, saved any time and spent only in the last hours before that shop closes, following whichever board event runs. Event shops ask for the shop list so a shop that comes and goes is there when its coins are due. Build loops that need a missing item no longer restart the account."
 }
