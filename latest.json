@@ -1,6 +1,6 @@
 {
-    "version": "1.7.0.2",
-    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v1.7.0.2/apex-1.7.0.2.zip",
-    "sha256": "6eb23de4aa2ca9667243d9811f01defbc8d0a7520652ab2a1f53c7b440f75292",
-    "notes": "Race gets its own redeem list on its Events card, like Summer Expedition and Pinball: saved any time, spent only in the last hours before a Race event's shop closes, only in Race's shop. Each event game's prize coins are shown by the game's own names."
+    "version": "1.8.0.0",
+    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v1.8.0.0/apex-1.8.0.0.zip",
+    "sha256": "c4837bb788356c1aba4329d002b181ee37d72e55a62acd4e9717f3da5fc88ef6",
+    "notes": "The Events section is simpler to use: clearer mode buttons, one line per card, folded lists. Exchange Extravaganza quests can be kept or skipped by group; Apex works the quest at the top of the queue, claims it when done and exchanges coins as soon as they cover one. It starts in Watch mode, logging what it would do, until switched to Act. Gather types, pacts, monster types and supply resources are shown by name."
 }
