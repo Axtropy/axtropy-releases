@@ -1,6 +1,6 @@
 {
-    "version": "1.7.0.0",
-    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v1.7.0.0/apex-1.7.0.0.zip",
-    "sha256": "3adff1916f2f9865bffed2fce2e2d3c312b56940d53110983664451be3318a57",
-    "notes": "An Events section in each account's Settings: one card per event (board events such as Summer Expedition, Labyrinth, Kingdom Tycoon, Pinball, Race, Limited Pass, Guild Fest, daily rewards) with Off / Free only / Use tokens too, and Copy to selected accounts. A redeem list for board event shops, saved any time and spent only in the last hours before that shop closes, following whichever board event runs. Event shops ask for the shop list so a shop that comes and goes is there when its coins are due. Build loops that need a missing item no longer restart the account."
+    "version": "1.7.0.1",
+    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v1.7.0.1/apex-1.7.0.1.zip",
+    "sha256": "57fd0092cb3c56fcd5ecbdc733c9b01546a8697f009bd1ff6e78e3c4d6880432",
+    "notes": "Pinball gets its own redeem list on its Events card: saved any time, spent only in the last hours before a Pinball event's shop closes, following whichever Pinball event runs. The board event and Pinball lists each buy only in their own game's shop. The first buy in every shop is a single item, checked before anything bigger."
 }
