@@ -1,6 +1,6 @@
 {
-    "version": "1.9.0.0",
-    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v1.9.0.0/apex-1.9.0.0.zip",
-    "sha256": "637b22da0eafd27019a5ea4aa70df606f3cbeffee3f51f4e649560d8380e535a",
-    "notes": "Exchange Extravaganza: per-quest defaults for free-to-play accounts, and the three artifact quests are done by Apex - opening the regular artifact chest with artifact coins, upgrading and enhancing artifacts, never with gems. Increase Might (Artifacts) can go by upgrade, enhance or both, strongest or cheapest artifact first. The Speed Ups quest spends speed-ups only on the timers you choose. Train Soldiers trains T1 without speed-ups. The quest driver still starts in Watch mode until an account is switched to Act."
+  "version": "2.0.0.0",
+  "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v2.0.0.0/apex-2.0.0.0.zip",
+  "sha256": "bccaefc6a7312f107f019c339c04bae428b65354c92aead1e970099287e21192",
+  "notes": "Apex 2.0.0.0\n\n- Guild Fest card in Settings > Events, after the engine's own screen: live status (attempts, guild and personal score, the taken quest), Refresh, Cancel current quest (confirm only; it costs an attempt).\n- Guild Fest mission tables: tick Solo 120% / Solo 200% / Guild task per mission, Tick all / Untick all, Change all limits, and an Automated column from the engine's own template.\n- Guild Fest saves write into the account file from the engine's own template defaults; a save that changes nothing says so instead of \"Saved\".\n- Item to buy with guild coins, read from the game's own shop table."
 }
