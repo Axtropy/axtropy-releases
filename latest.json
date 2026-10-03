@@ -1,6 +1,6 @@
 {
-    "version":  "2.0.0.1",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.0.0.1/apex-2.0.0.1.zip",
-    "sha256":  "a5bda81d7f00041c5785101ccb4942f586f9f5f56258e3a18180ba493074a1e6",
-    "notes":  "Rallies and reinforcements are now one screen, each with its own On/Off and a plain sentence on what it does. Familiars set from the portal now take effect (the ticks were written under the wrong names). Picking a sub-tag in the account list now stays picked. Clearer drawer labels and buttons."
+    "version":  "2.0.0.2",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.0.0.2/apex-2.0.0.2.zip",
+    "sha256":  "7bf48548604be1a023aa94154630ae31501d97b297fb4c9fd7b527c9004aadd5",
+    "notes":  "Familiar ticks from a portal tab that was open before the last update are no longer dropped. Picking a familiar's switches in the portal now takes effect whichever page version sent it."
 }
