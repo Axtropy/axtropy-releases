@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0.0",
-  "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v2.0.0.0/apex-2.0.0.0.zip",
-  "sha256": "bccaefc6a7312f107f019c339c04bae428b65354c92aead1e970099287e21192",
-  "notes": "Apex 2.0.0.0\n\n- Guild Fest card in Settings > Events, after the engine's own screen: live status (attempts, guild and personal score, the taken quest), Refresh, Cancel current quest (confirm only; it costs an attempt).\n- Guild Fest mission tables: tick Solo 120% / Solo 200% / Guild task per mission, Tick all / Untick all, Change all limits, and an Automated column from the engine's own template.\n- Guild Fest saves write into the account file from the engine's own template defaults; a save that changes nothing says so instead of \"Saved\".\n- Item to buy with guild coins, read from the game's own shop table."
+    "version":  "2.0.0.1",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.0.0.1/apex-2.0.0.1.zip",
+    "sha256":  "a5bda81d7f00041c5785101ccb4942f586f9f5f56258e3a18180ba493074a1e6",
+    "notes":  "Rallies and reinforcements are now one screen, each with its own On/Off and a plain sentence on what it does. Familiars set from the portal now take effect (the ticks were written under the wrong names). Picking a sub-tag in the account list now stays picked. Clearer drawer labels and buttons."
 }
