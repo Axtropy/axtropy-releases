@@ -1,6 +1,6 @@
 {
-    "version":  "2.0.0.3",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.0.0.3/apex-2.0.0.3.zip",
-    "sha256":  "806c42c36df1977800e52fdb7a8f5be702cfb02ffc1457697c27e48c2cf0d474",
-    "notes":  "The portal now shows what each account is doing, as the Apex Action column says it. Stopping an account from the portal now shows Stopped once it has stopped, instead of staying on Stopping."
+    "version":  "2.0.0.4",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.0.0.4/apex-2.0.0.4.zip",
+    "sha256":  "3abb71a6ecab26d171cd8e17fc731d7e1acbea77609e956f0b8a7d05a941af78",
+    "notes":  "Fewer 'Error Starting Account' notices at launch: the start retry now only restarts accounts that are still in the list and not already running."
 }
