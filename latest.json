@@ -1,6 +1,6 @@
 {
-    "version":  "2.0.0.2",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.0.0.2/apex-2.0.0.2.zip",
-    "sha256":  "7bf48548604be1a023aa94154630ae31501d97b297fb4c9fd7b527c9004aadd5",
-    "notes":  "Familiar ticks from a portal tab that was open before the last update are no longer dropped. Picking a familiar's switches in the portal now takes effect whichever page version sent it."
+    "version":  "2.0.0.3",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.0.0.3/apex-2.0.0.3.zip",
+    "sha256":  "806c42c36df1977800e52fdb7a8f5be702cfb02ffc1457697c27e48c2cf0d474",
+    "notes":  "The portal now shows what each account is doing, as the Apex Action column says it. Stopping an account from the portal now shows Stopped once it has stopped, instead of staying on Stopping."
 }
