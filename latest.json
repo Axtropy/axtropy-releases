@@ -1,6 +1,6 @@
 {
-  "version": "2.1.0.0",
-  "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v2.1.0.0/apex-2.1.0.0.zip",
-  "sha256": "cfb6d507a44e84e4720326597476f926964ffab28c9d0c82c8227670dd92236d",
-  "notes": "Apex 2.1.0.0 - Guild Fest run by Apex\n\n- Guild Fest is now run by Apex on every account (Settings > Events > Guild Fest > \"Guild Fest run by\": Apex / Engine / Off). In Apex mode the engine's own Guild Fest is switched off and Apex picks, takes, does, submits and claims.\n- Apex reads the quest board and takes only cards that are ticked, within your Take above / Max points, and that the account can finish. The card's Complete missions switch turns this on or off.\n- Quests Apex does itself: Labyrinth (Elite / Normal / Use Holy Stars), Kingdom Tycoon (Spend Luck Tokens, Meet a Gemming Gremlin, including the gremlin's capsules), Spend Artifact Coins (x10 / x1 chest opens), Upgrade / Enhance Artifacts, Spend Gems (the item you choose), and Complete Guild / Admin Quests (uses a Quest Scroll when the quest list runs dry).\n- Completed quests are submitted, Solo Rewards are claimed, and Guild Rewards tiers are collected, all under the one \"Claim rewards\" switch.\n- Gems are never spent unless you switch it on: \"Allow spending gems\", \"Buy luck tokens with gems\" and \"Buy quest scrolls with gems\" are all off by default, and \"Keep at least this many gems\" is a floor no buy goes below. Packs already in the bag (Holy Stars, luck tokens, quest scrolls) are used first.\n- Every Guild Fest action Apex takes is written to the account's Log tab."
+    "version":  "2.2.0.0",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.0.0/apex-2.2.0.0.zip",
+    "sha256":  "19863f178091bdb2018e2514e4b39668beb86a424ce32e10fa69c3b0e6c78f9a",
+    "notes":  "Engine notices are toasts, not popups; a restart storm collapses to at most 3 toasts. Automatic off-box account backup with a Restore button (More \u003e Restore accounts)."
 }
