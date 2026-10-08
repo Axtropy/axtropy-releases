@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.0.5",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.0.5/apex-2.2.0.5.zip",
-    "sha256":  "9e81c1d4059c91ea7aae68f8165193742281bd9b968f06d24001e599ee74107e",
-    "notes":  "The portal can set Apex\u0027s own guild-chat commands (on/off and minimum rank per command)."
+    "version":  "2.2.0.6",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.0.6/apex-2.2.0.6.zip",
+    "sha256":  "6dc8c1279a8558ef8cfc52c0af809bb0667a3e48c25147b05b1e97876be6bc70",
+    "notes":  "Each shared guild-chat word has one owner: Apex leaves gryphon, snowbeast, yell, abort, guild, rss and the arena short words to the guild bank; the bank\u0027s pos is retired."
 }
