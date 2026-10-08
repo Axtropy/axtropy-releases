@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.0.0",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.0.0/apex-2.2.0.0.zip",
-    "sha256":  "19863f178091bdb2018e2514e4b39668beb86a424ce32e10fa69c3b0e6c78f9a",
-    "notes":  "Engine notices are toasts, not popups; a restart storm collapses to at most 3 toasts. Automatic off-box account backup with a Restore button (More \u003e Restore accounts)."
+    "version":  "2.2.0.1",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.0.1/apex-2.2.0.1.zip",
+    "sha256":  "3487883facbca96fc275c3fd1882ce26cb83f7a99d13f18bcdfaf2251f2922c3",
+    "notes":  "A time setting sent from the portal must be a real time. An empty one used to break the account's settings file and stop the account."
 }
