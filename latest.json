@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.0.1",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.0.1/apex-2.2.0.1.zip",
-    "sha256":  "3487883facbca96fc275c3fd1882ce26cb83f7a99d13f18bcdfaf2251f2922c3",
-    "notes":  "A time setting sent from the portal must be a real time. An empty one used to break the account's settings file and stop the account."
+    "version":  "2.2.0.2",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.0.2/apex-2.2.0.2.zip",
+    "sha256":  "97158bd43259cddca442251efa02146cafbf4ceab8210992f7f28f09adbbc8c1",
+    "notes":  "A setting changed from the portal must keep its type: a number stays a number, a switch stays on or off, a time stays a time. A wrong value is refused instead of breaking the account's settings file."
 }
