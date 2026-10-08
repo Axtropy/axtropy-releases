@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.0.2",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.0.2/apex-2.2.0.2.zip",
-    "sha256":  "97158bd43259cddca442251efa02146cafbf4ceab8210992f7f28f09adbbc8c1",
-    "notes":  "A setting changed from the portal must keep its type: a number stays a number, a switch stays on or off, a time stays a time. A wrong value is refused instead of breaking the account's settings file."
+    "version":  "2.2.0.3",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.0.3/apex-2.2.0.3.zip",
+    "sha256":  "8f805bf9cb4306344eff5b6286b9deae418bc71ac5af0d701901e0da316983fa",
+    "notes":  "Engine boxes hidden instantly even on a loaded RDP; a box left for you comes to the front. A proven game version reaches every machine within a minute. Startup can no longer be aborted by a self-test. Renter shown per account."
 }
