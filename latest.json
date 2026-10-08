@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.0.4",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.0.4/apex-2.2.0.4.zip",
-    "sha256":  "cde85db07253191e0ba864fa442c5d48d7362e478c9cf558bcd630840fdab1b8",
-    "notes":  "Engine boxes hidden instantly even while the engine is busy starting hundreds of accounts. Startup self-tests no longer touch the live configuration."
+    "version":  "2.2.0.5",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.0.5/apex-2.2.0.5.zip",
+    "sha256":  "9e81c1d4059c91ea7aae68f8165193742281bd9b968f06d24001e599ee74107e",
+    "notes":  "The portal can set Apex\u0027s own guild-chat commands (on/off and minimum rank per command)."
 }
