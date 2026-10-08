@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.0.3",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.0.3/apex-2.2.0.3.zip",
-    "sha256":  "8f805bf9cb4306344eff5b6286b9deae418bc71ac5af0d701901e0da316983fa",
-    "notes":  "Engine boxes hidden instantly even on a loaded RDP; a box left for you comes to the front. A proven game version reaches every machine within a minute. Startup can no longer be aborted by a self-test. Renter shown per account."
+    "version":  "2.2.0.4",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.0.4/apex-2.2.0.4.zip",
+    "sha256":  "cde85db07253191e0ba864fa442c5d48d7362e478c9cf558bcd630840fdab1b8",
+    "notes":  "Engine boxes hidden instantly even while the engine is busy starting hundreds of accounts. Startup self-tests no longer touch the live configuration."
 }
