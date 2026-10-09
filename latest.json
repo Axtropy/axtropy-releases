@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.0.6",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.0.6/apex-2.2.0.6.zip",
-    "sha256":  "6dc8c1279a8558ef8cfc52c0af809bb0667a3e48c25147b05b1e97876be6bc70",
-    "notes":  "Each shared guild-chat word has one owner: Apex leaves gryphon, snowbeast, yell, abort, guild, rss and the arena short words to the guild bank; the bank\u0027s pos is retired."
+    "version":  "2.2.0.7",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.0.7/apex-2.2.0.7.zip",
+    "sha256":  "bbbbb5e40699e4fe561ea5cdf38b7bfd815ad47ee21aafe4298296c449640c9d",
+    "notes":  "Engine boxes that wait for an answer, such as Join Guild's questions, stay on screen in front of Apex until answered. Apex can no longer be locked behind a hidden box."
 }
