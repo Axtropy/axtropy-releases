@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.0.8",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.0.8/apex-2.2.0.8.zip",
-    "sha256":  "e9e32f54fdd76d106016539af6dbe2ed979aedf33f634e41c93e5181c1046d90",
-    "notes":  "The portal can add and remove Apex's own Authorized users, and shows bank balances."
+    "version":  "2.2.0.9",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.0.9/apex-2.2.0.9.zip",
+    "sha256":  "9d49455bb0b3c78fabc193579675d30b9226148c0b5cb05b2574d8ee6e84e938",
+    "notes":  "!join on a castle rally now marches, and says whether it joined. !pos answers with a tappable location. IGG import picks a single character correctly."
 }
