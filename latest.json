@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.0.9",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.0.9/apex-2.2.0.9.zip",
-    "sha256":  "9d49455bb0b3c78fabc193579675d30b9226148c0b5cb05b2574d8ee6e84e938",
-    "notes":  "!join on a castle rally now marches, and says whether it joined. !pos answers with a tappable location. IGG import picks a single character correctly."
+    "version":  "2.2.1.0",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.1.0/apex-2.2.1.0.zip",
+    "sha256":  "2d78736c15d48d7c3674d3a7c3c8a69465acf6fb19c3c366149ec14dd31ae773",
+    "notes":  "Guild chat replies are off by default and failures are mailed; !pos and !balance always answer in chat. The fleet table no longer redraws four times a second, so menus respond on large fleets."
 }
