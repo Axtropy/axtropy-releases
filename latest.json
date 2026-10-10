@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.0.7",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.0.7/apex-2.2.0.7.zip",
-    "sha256":  "bbbbb5e40699e4fe561ea5cdf38b7bfd815ad47ee21aafe4298296c449640c9d",
-    "notes":  "Engine boxes that wait for an answer, such as Join Guild's questions, stay on screen in front of Apex until answered. Apex can no longer be locked behind a hidden box."
+    "version":  "2.2.0.8",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.0.8/apex-2.2.0.8.zip",
+    "sha256":  "e9e32f54fdd76d106016539af6dbe2ed979aedf33f634e41c93e5181c1046d90",
+    "notes":  "The portal can add and remove Apex's own Authorized users, and shows bank balances."
 }
