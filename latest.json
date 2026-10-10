@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.2.0",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.2.0/apex-2.2.2.0.zip",
-    "sha256":  "6f0794b81fbc6d082f4aa665d586e686eebe74c99a654c16989128f52dfe0361",
-    "notes":  "Every guild chat command is on by default and recall is always available. Replies are short and plain, successes are mailed (rally fills and reinforcements mail only failures), and commands older than 90 seconds are dropped. New: .relocate random, the game's own location format, and spelling hints. An account deleted from Apex is freed for its owner after 10 minutes."
+    "version":  "2.2.2.1",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.2.1/apex-2.2.2.1.zip",
+    "sha256":  "4e8a9b9b44ba4039024a89f9d68dc294c6d0ad1c8eb4fa58bc2d0ef23ad50f46",
+    "notes":  "An account deleted from Apex now frees its owner reliably."
 }
