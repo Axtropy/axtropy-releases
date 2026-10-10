@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.1.0",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.1.0/apex-2.2.1.0.zip",
-    "sha256":  "2d78736c15d48d7c3674d3a7c3c8a69465acf6fb19c3c366149ec14dd31ae773",
-    "notes":  "Guild chat replies are off by default and failures are mailed; !pos and !balance always answer in chat. The fleet table no longer redraws four times a second, so menus respond on large fleets."
+    "version":  "2.2.2.0",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.2.0/apex-2.2.2.0.zip",
+    "sha256":  "6f0794b81fbc6d082f4aa665d586e686eebe74c99a654c16989128f52dfe0361",
+    "notes":  "Every guild chat command is on by default and recall is always available. Replies are short and plain, successes are mailed (rally fills and reinforcements mail only failures), and commands older than 90 seconds are dropped. New: .relocate random, the game's own location format, and spelling hints. An account deleted from Apex is freed for its owner after 10 minutes."
 }
