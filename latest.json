@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.2.3",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.2.3/apex-2.2.2.3.zip",
-    "sha256":  "22610de27ba7baef754be33b772c18cc3fd92d6df741dd07533add3d8c242c36",
-    "notes":  "Accounts start at least 1 second apart, adjustable in Settings > Engine > Starting accounts. The portal no longer drops accounts that are still loading after a restart."
+    "version":  "2.2.2.4",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.2.4/apex-2.2.2.4.zip",
+    "sha256":  "13cd7a3c9c2386b0f040b6b2ce485aad7f44a0c9bca66ec916d1f9fe136c2b8a",
+    "notes":  "An account whose rental has lapsed is stopped one day after it ends and stays the client's. New accounts start with speed-ups off."
 }
