@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.2.2",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.2.2/apex-2.2.2.2.zip",
-    "sha256":  "8f8cf96d0727bd9edcea4dd15ea6ba36a780b8297479cfef07743081e6e6e72e",
-    "notes":  "Accounts start a few at a time with automatic retries instead of all at once, so restarts are smoother and faster. Health's Check for updates can now install an update. Apex records why it closes."
+    "version":  "2.2.2.3",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.2.3/apex-2.2.2.3.zip",
+    "sha256":  "22610de27ba7baef754be33b772c18cc3fd92d6df741dd07533add3d8c242c36",
+    "notes":  "Accounts start at least 1 second apart, adjustable in Settings > Engine > Starting accounts. The portal no longer drops accounts that are still loading after a restart."
 }
