@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.2.4",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.2.4/apex-2.2.2.4.zip",
-    "sha256":  "13cd7a3c9c2386b0f040b6b2ce485aad7f44a0c9bca66ec916d1f9fe136c2b8a",
-    "notes":  "An account whose rental has lapsed is stopped one day after it ends and stays the client's. New accounts start with speed-ups off."
+    "version": "2.2.2.5",
+    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.2.5/apex-2.2.2.5.zip",
+    "sha256": "50f750844591cdb95126992902dcb90ef086cdb4c5cd0e312588aac009bc1d8a",
+    "notes": "Guild management (auto-accept, auto-rank, blacklist) can be edited from the portal. Edits made by the owner are now recorded in the audit log."
 }
