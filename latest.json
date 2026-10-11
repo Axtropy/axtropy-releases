@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.2.1",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.2.1/apex-2.2.2.1.zip",
-    "sha256":  "4e8a9b9b44ba4039024a89f9d68dc294c6d0ad1c8eb4fa58bc2d0ef23ad50f46",
-    "notes":  "An account deleted from Apex now frees its owner reliably."
+    "version":  "2.2.2.2",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.2.2/apex-2.2.2.2.zip",
+    "sha256":  "8f8cf96d0727bd9edcea4dd15ea6ba36a780b8297479cfef07743081e6e6e72e",
+    "notes":  "Accounts start a few at a time with automatic retries instead of all at once, so restarts are smoother and faster. Health's Check for updates can now install an update. Apex records why it closes."
 }
