@@ -1,6 +1,6 @@
 {
-    "version": "2.2.2.5",
-    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.2.5/apex-2.2.2.5.zip",
-    "sha256": "50f750844591cdb95126992902dcb90ef086cdb4c5cd0e312588aac009bc1d8a",
-    "notes": "Guild management (auto-accept, auto-rank, blacklist) can be edited from the portal. Edits made by the owner are now recorded in the audit log."
+    "version": "2.2.2.6",
+    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.2.6/apex-2.2.2.6.zip",
+    "sha256": "c140bbc75c1678be0571a4b31c4181de23039f44bcbd39f3865876b3f1a94584",
+    "notes": "New accounts are left alone for their first minute so the engine can finish loading them. Apex no longer holds an account's files in a way that blocks the engine."
 }
