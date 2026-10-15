@@ -1,6 +1,6 @@
 {
-    "version": "2.2.2.7",
-    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.2.7/apex-2.2.2.7.zip",
-    "sha256": "13c642c4f2859dd17aa85a5500047d353bc3bd7064b0e7215026d962b7b8ef5b",
-    "notes": "Apex now records what the game's maintenance notice and each account's login phase say, and how much memory its window uses. If the window's browser process crashes, the page reloads itself."
+    "version":  "2.2.2.8",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.2.8/apex-2.2.2.8.zip",
+    "sha256":  "0755fa1dc00f77b795a3bcea726a68c2b72930678eeb9b66680f22191ab633b9",
+    "notes":  "The start-up screen now fits any window size and shows one progress bar instead of a dot per account. Relocating works in the guild expedition: the bots spread over free tiles and give up cleanly when the game refuses a tile. Reinforcing a tower in the guild expedition works with !rein K:2000 X:.. Y:.. The window refits itself after a remote desktop is resized, and guild chat replies are in plain words."
 }
