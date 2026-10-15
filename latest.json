@@ -1,6 +1,6 @@
 {
-    "version": "2.2.2.6",
-    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.2.6/apex-2.2.2.6.zip",
-    "sha256": "c140bbc75c1678be0571a4b31c4181de23039f44bcbd39f3865876b3f1a94584",
-    "notes": "New accounts are left alone for their first minute so the engine can finish loading them. Apex no longer holds an account's files in a way that blocks the engine."
+    "version": "2.2.2.7",
+    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.2.7/apex-2.2.2.7.zip",
+    "sha256": "13c642c4f2859dd17aa85a5500047d353bc3bd7064b0e7215026d962b7b8ef5b",
+    "notes": "Apex now records what the game's maintenance notice and each account's login phase say, and how much memory its window uses. If the window's browser process crashes, the page reloads itself."
 }
