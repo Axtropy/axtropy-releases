@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.3.0",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.3.0/apex-2.2.3.0.zip",
-    "sha256":  "c63bdc9a27d23b53ecacf9fab790332f0a05aeec6c9d42e3d16eb019fc8431a0",
-    "notes":  "Accounts are now put on the relay portal only when a client holds a slot for them, or when you set them to Always, instead of every account on the machine. Farm and night-shift accounts no longer write to the server, which takes most of the load off it."
+    "version":  "2.2.3.1",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.3.1/apex-2.2.3.1.zip",
+    "sha256":  "cab6187c709d0f3b5873e4ffad356fee9a9418f15bd5e6933b4ff6c60942da2f",
+    "notes":  "Each operator now has a relay setting you choose: All accounts, Client slots only, or Off. With All accounts, every account an operator imports can be managed from the portal, and Off keeps an operator's accounts off the server entirely. Accounts are still put on the portal only when a client holds a slot or the operator's setting says so, which keeps the load on the server down."
 }
