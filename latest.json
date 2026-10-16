@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.2.8",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.2.8/apex-2.2.2.8.zip",
-    "sha256":  "0755fa1dc00f77b795a3bcea726a68c2b72930678eeb9b66680f22191ab633b9",
-    "notes":  "The start-up screen now fits any window size and shows one progress bar instead of a dot per account. Relocating works in the guild expedition: the bots spread over free tiles and give up cleanly when the game refuses a tile. Reinforcing a tower in the guild expedition works with !rein K:2000 X:.. Y:.. The window refits itself after a remote desktop is resized, and guild chat replies are in plain words."
+    "version":  "2.2.2.9",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.2.9/apex-2.2.2.9.zip",
+    "sha256":  "9fdafd962ace280e73cfcb182feb1cc3f5954f05d6caefe5cfbac087fb4fd61b",
+    "notes":  "If the sign-in server cannot be reached when Apex starts, it now starts on your last verified subscription for up to 6 hours and keeps trying to sign in, instead of staying on the sign-in window with the fleet down. A refusal from the server (wrong password, revoked device, lapsed subscription) is handled as before. Sign-in is more patient with a slow server, so a slow answer no longer loses the session."
 }
