@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.2.9",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.2.9/apex-2.2.2.9.zip",
-    "sha256":  "9fdafd962ace280e73cfcb182feb1cc3f5954f05d6caefe5cfbac087fb4fd61b",
-    "notes":  "If the sign-in server cannot be reached when Apex starts, it now starts on your last verified subscription for up to 6 hours and keeps trying to sign in, instead of staying on the sign-in window with the fleet down. A refusal from the server (wrong password, revoked device, lapsed subscription) is handled as before. Sign-in is more patient with a slow server, so a slow answer no longer loses the session."
+    "version":  "2.2.3.0",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.3.0/apex-2.2.3.0.zip",
+    "sha256":  "c63bdc9a27d23b53ecacf9fab790332f0a05aeec6c9d42e3d16eb019fc8431a0",
+    "notes":  "Accounts are now put on the relay portal only when a client holds a slot for them, or when you set them to Always, instead of every account on the machine. Farm and night-shift accounts no longer write to the server, which takes most of the load off it."
 }
