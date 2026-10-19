@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.3.1",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.2.3.1/apex-2.2.3.1.zip",
-    "sha256":  "cab6187c709d0f3b5873e4ffad356fee9a9418f15bd5e6933b4ff6c60942da2f",
-    "notes":  "Each operator now has a relay setting you choose: All accounts, Client slots only, or Off. With All accounts, every account an operator imports can be managed from the portal, and Off keeps an operator's accounts off the server entirely. Accounts are still put on the portal only when a client holds a slot or the operator's setting says so, which keeps the load on the server down."
+    "version": "2.3.0.0",
+    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.0.0/apex-2.3.0.0.zip",
+    "sha256": "3c58c55772c9a1e6d0e7d66d48fd2c5a4683767f09d0607ab66aace66de35056",
+    "notes": "Exchange Extravaganza now runs by itself. Apex opens the event page, sets the five gifts, skips and deletes quests it will not do, drives the ones it can (artifact enhance and chest quests), claims each one and exchanges at 100 coins. It needs Exchange switched on for the account."
 }
