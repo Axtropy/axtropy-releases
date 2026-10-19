@@ -1,6 +1,6 @@
 {
-    "version": "2.3.1.0",
-    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.1.0/apex-2.3.1.0.zip",
-    "sha256": "b26c7977121290f73233aeb7d1bffa1eb11a0ef6e11ca897e66e3e94d53142be",
-    "notes": "The Exchange event's Cosmic Station is now an event shop with a built-in priority list (Talent Orb, Astralite, chests, speed-ups last), spent in the shop's last hours and editable on the Exchange card. Apex also spins the Roulette wheel with horseshoe tokens, with a switch on the same card (on by default)."
+    "version": "2.3.2.0",
+    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.2.0/apex-2.3.2.0.zip",
+    "sha256": "46ee1eeb21c21cc2b78c7c64ba67db638326e494a6c9c5099a3612a31d78e596",
+    "notes": "The Exchange card is now laid out like the other events: the Cosmic Station shop shows its closing time and crowns held and opens by itself, and the shop is named in the Event shops card. Gifts are chosen from the server's offered list (your priority list, then carpets, then boots, then the rest, each item once). Apex stops spending on quests once the coins already cover every remaining exchange."
 }
