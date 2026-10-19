@@ -1,6 +1,6 @@
 {
-    "version": "2.3.0.0",
-    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.0.0/apex-2.3.0.0.zip",
-    "sha256": "3c58c55772c9a1e6d0e7d66d48fd2c5a4683767f09d0607ab66aace66de35056",
-    "notes": "Exchange Extravaganza now runs by itself. Apex opens the event page, sets the five gifts, skips and deletes quests it will not do, drives the ones it can (artifact enhance and chest quests), claims each one and exchanges at 100 coins. It needs Exchange switched on for the account."
+    "version": "2.3.1.0",
+    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.1.0/apex-2.3.1.0.zip",
+    "sha256": "b26c7977121290f73233aeb7d1bffa1eb11a0ef6e11ca897e66e3e94d53142be",
+    "notes": "The Exchange event's Cosmic Station is now an event shop with a built-in priority list (Talent Orb, Astralite, chests, speed-ups last), spent in the shop's last hours and editable on the Exchange card. Apex also spins the Roulette wheel with horseshoe tokens, with a switch on the same card (on by default)."
 }
