@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.2.2",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.2.2/apex-2.3.2.2.zip",
-    "sha256":  "31159bc12ae24c07adb02790faf492d05d1483ddefccd8b32c626d173d8bc943",
-    "notes":  "Rally joins from a fill command no longer hit the game's limit: each bot starts its join after a short random delay and retries further apart. When a join does not happen, guildmates are told in plain words, and 'the rally is full or closed' is said only when the game says so."
+    "version":  "2.3.2.3",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.2.3/apex-2.3.2.3.zip",
+    "sha256":  "f932733eab6e201a3bfb309132948e3a898c2f5850863a9f4c24d6a2519b6382",
+    "notes":  "Carpets work like LordsHelper: !go and !stop switch carpets on and off, and while they are on the account uses carpets on every rally it is in (preferred tiers, up to its max per rally, stopping at its target time). A leader name is one word with _ for each space, for example !carpet Au_007 1:00."
 }
