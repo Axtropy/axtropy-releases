@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.2.4",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.2.4/apex-2.3.2.4.zip",
-    "sha256":  "f81b849b87a374e2aa4db287727d686ead91222f64cc3e40613da568c4d0f882",
-    "notes":  "Carpets have no limit per rally by default: once switched on (!go), an account keeps using carpets on a rally until the walk is under its target time or the carpets run out. Tick 'Limit carpets per rally' in the account's carpet settings to stop at a set number."
+    "version":  "2.3.2.5",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.2.5/apex-2.3.2.5.zip",
+    "sha256":  "93d070f1a396cfaa5f3c772c24fba0e973b0d2a4f7337de53acf3d8c3313f32f",
+    "notes":  "Carpets now work on a rally the account is not in: one carpet at a time, until the walk is under the target time. !go and !stop now cover the rallies going on right now (!go says 'no rally going on' when there is none), and the account's own Use carpets setting is left alone."
 }
