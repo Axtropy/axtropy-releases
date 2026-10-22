@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.2.3",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.2.3/apex-2.3.2.3.zip",
-    "sha256":  "f932733eab6e201a3bfb309132948e3a898c2f5850863a9f4c24d6a2519b6382",
-    "notes":  "Carpets work like LordsHelper: !go and !stop switch carpets on and off, and while they are on the account uses carpets on every rally it is in (preferred tiers, up to its max per rally, stopping at its target time). A leader name is one word with _ for each space, for example !carpet Au_007 1:00."
+    "version":  "2.3.2.4",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.2.4/apex-2.3.2.4.zip",
+    "sha256":  "f81b849b87a374e2aa4db287727d686ead91222f64cc3e40613da568c4d0f882",
+    "notes":  "Carpets have no limit per rally by default: once switched on (!go), an account keeps using carpets on a rally until the walk is under its target time or the carpets run out. Tick 'Limit carpets per rally' in the account's carpet settings to stop at a set number."
 }
