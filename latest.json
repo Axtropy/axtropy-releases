@@ -1,6 +1,6 @@
 {
-    "version": "2.3.2.0",
-    "url": "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.2.0/apex-2.3.2.0.zip",
-    "sha256": "46ee1eeb21c21cc2b78c7c64ba67db638326e494a6c9c5099a3612a31d78e596",
-    "notes": "The Exchange card is now laid out like the other events: the Cosmic Station shop shows its closing time and crowns held and opens by itself, and the shop is named in the Event shops card. Gifts are chosen from the server's offered list (your priority list, then carpets, then boots, then the rest, each item once). Apex stops spending on quests once the coins already cover every remaining exchange."
+    "version":  "2.3.2.1",
+    "url":  "REPLACE_WITH_RELEASE_URL",
+    "sha256":  "6f81a80b36bbdd34ffefec1311d6ac2ee07ce3a7be5de528d9d7f40e0fe9fa35",
+    "notes":  ""
 }
