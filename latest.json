@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.2.1",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.2.1/apex-2.3.2.1.zip",
-    "sha256":  "6f81a80b36bbdd34ffefec1311d6ac2ee07ce3a7be5de528d9d7f40e0fe9fa35",
-    "notes":  "Always train: each account can have one training order (a troop from T1 to T4 and an amount per batch) that Apex trains whenever Train troops is on and the barracks stand idle, whatever chapter the account is on. Set it in the account's Troops settings in Apex or on the portal. Accounts whose resources sit in the bag train from the bag when the account allows it."
+    "version":  "2.3.2.2",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.2.2/apex-2.3.2.2.zip",
+    "sha256":  "31159bc12ae24c07adb02790faf492d05d1483ddefccd8b32c626d173d8bc943",
+    "notes":  "Rally joins from a fill command no longer hit the game's limit: each bot starts its join after a short random delay and retries further apart. When a join does not happen, guildmates are told in plain words, and 'the rally is full or closed' is said only when the game says so."
 }
