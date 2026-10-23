@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.2.6",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.2.6/apex-2.3.2.6.zip",
-    "sha256":  "03f5cb8e181d863d94415e151d945656ef5c40495313a114a0a8af3be8dfcca7",
-    "notes":  "Carpet accounts check for new rallies once a minute instead of every few seconds. The short troop mix is accepted (659 means 6 5 9, e.g. !fill name 659 60), and resource requests to the bank are written as 6M / 500K. Each account keeps a short record of what the game last said about gifts, the Colosseum, shields and training. A failed update now says what stopped it."
+    "version":  "2.3.2.7",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.2.7/apex-2.3.2.7.zip",
+    "sha256":  "6759c3b0c1ed96520dd4bf32c48abd7dcfb0b735bd8a2b7344bfccf6542e8cc7",
+    "notes":  "Stopping an account while others are still starting no longer freezes the Apex window. Apex watches its own memory use, and the sign-in window signs in with a saved session even when its page is slow to open. Guild chat commands read the sender's rank from the live guild list and wait for the list to load instead of asking the player to send the command again."
 }
