@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.2.7",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.2.7/apex-2.3.2.7.zip",
-    "sha256":  "6759c3b0c1ed96520dd4bf32c48abd7dcfb0b735bd8a2b7344bfccf6542e8cc7",
-    "notes":  "Stopping an account while others are still starting no longer freezes the Apex window. Apex watches its own memory use, and the sign-in window signs in with a saved session even when its page is slow to open. Guild chat commands read the sender's rank from the live guild list and wait for the list to load instead of asking the player to send the command again."
+    "version":  "2.3.2.8",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.2.8/apex-2.3.2.8.zip",
+    "sha256":  "05d3dea039875a317af6cffdbfb2cee5d1f9e5635ec961de15aeafefe9b309ea",
+    "notes":  "New accounts start with Hunt Monsters, the Cargo Ship page and Craft Luminous Gear switched on. The Guild screen's statistics settings (point values, save and export options, stat reset time) are named and grouped in the settings list, and Craft Luminous Gear is in the Troops settings. Changes from the portal to a list of numbers or switches are checked, so a blank box cannot break an account's settings."
 }
