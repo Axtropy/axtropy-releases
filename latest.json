@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.2.5",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.2.5/apex-2.3.2.5.zip",
-    "sha256":  "93d070f1a396cfaa5f3c772c24fba0e973b0d2a4f7337de53acf3d8c3313f32f",
-    "notes":  "Carpets now work on a rally the account is not in: one carpet at a time, until the walk is under the target time. !go and !stop now cover the rallies going on right now (!go says 'no rally going on' when there is none), and the account's own Use carpets setting is left alone."
+    "version":  "2.3.2.6",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.2.6/apex-2.3.2.6.zip",
+    "sha256":  "03f5cb8e181d863d94415e151d945656ef5c40495313a114a0a8af3be8dfcca7",
+    "notes":  "Carpet accounts check for new rallies once a minute instead of every few seconds. The short troop mix is accepted (659 means 6 5 9, e.g. !fill name 659 60), and resource requests to the bank are written as 6M / 500K. Each account keeps a short record of what the game last said about gifts, the Colosseum, shields and training. A failed update now says what stopped it."
 }
