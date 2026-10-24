@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.2.8",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.2.8/apex-2.3.2.8.zip",
-    "sha256":  "05d3dea039875a317af6cffdbfb2cee5d1f9e5635ec961de15aeafefe9b309ea",
-    "notes":  "New accounts start with Hunt Monsters, the Cargo Ship page and Craft Luminous Gear switched on. The Guild screen's statistics settings (point values, save and export options, stat reset time) are named and grouped in the settings list, and Craft Luminous Gear is in the Troops settings. Changes from the portal to a list of numbers or switches are checked, so a blank box cannot break an account's settings."
+    "version":  "2.3.2.9",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.2.9/apex-2.3.2.9.zip",
+    "sha256":  "e1e25baec820410317be7a3a86e2f0d2a78ac276fce8ef7b349fd09417d3578b",
+    "notes":  "New accounts now start with auto heal in the infirmary on, 1,500 T1 archers in the Chapter 4 training row, and gathering switched on for Gems only at any tile level. Accounts that already exist keep their settings."
 }
