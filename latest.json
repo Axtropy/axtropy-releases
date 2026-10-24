@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.2.10",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.2.10/apex-2.3.2.10.zip",
-    "sha256":  "d0892cb870797b45897614116c2dee6edf9756d6e35343d6a07be1d7ba2531b4",
-    "notes":  "Carpets from outside a rally now work on every machine without a set-up step, so an account that is not in a rally can carpet it when asked. New accounts start with Use carpets switched on. Accounts that already exist keep their carpet settings."
+    "version":  "2.3.2.11",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.2.11/apex-2.3.2.11.zip",
+    "sha256":  "a0fcac31983df43ac0f7251606b572a0d0b9d30d65471b908d0eafb016262082",
+    "notes":  "Every account in a rally now presses its own carpets at the same moment instead of waiting for a turn, so three accounts carpet a rally three times as fast. The Rallies tab no longer blinks while an account refreshes its war hall."
 }
