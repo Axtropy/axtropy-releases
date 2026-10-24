@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.2.9",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.2.9/apex-2.3.2.9.zip",
-    "sha256":  "e1e25baec820410317be7a3a86e2f0d2a78ac276fce8ef7b349fd09417d3578b",
-    "notes":  "New accounts now start with auto heal in the infirmary on, 1,500 T1 archers in the Chapter 4 training row, and gathering switched on for Gems only at any tile level. Accounts that already exist keep their settings."
+    "version":  "2.3.2.10",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.2.10/apex-2.3.2.10.zip",
+    "sha256":  "d0892cb870797b45897614116c2dee6edf9756d6e35343d6a07be1d7ba2531b4",
+    "notes":  "Carpets from outside a rally now work on every machine without a set-up step, so an account that is not in a rally can carpet it when asked. New accounts start with Use carpets switched on. Accounts that already exist keep their carpet settings."
 }
