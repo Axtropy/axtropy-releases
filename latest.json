@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.2.11",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.2.11/apex-2.3.2.11.zip",
-    "sha256":  "a0fcac31983df43ac0f7251606b572a0d0b9d30d65471b908d0eafb016262082",
-    "notes":  "Every account in a rally now presses its own carpets at the same moment instead of waiting for a turn, so three accounts carpet a rally three times as fast. The Rallies tab no longer blinks while an account refreshes its war hall."
+    "version":  "2.3.3.0",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.3.0/apex-2.3.3.0.zip",
+    "sha256":  "bee66f1dbef847b4f54733ddb85a2931c82d40c79d26853ea0273e7fea6b5fda",
+    "notes":  "New Link accounts to IGG screen (More menu). Give it IGG logins, or let it create new ones from a list of emails, and it links your accounts to them, five to a login, keeping every email and password in one Excel file with two sheets. It can number extra logins from the first email, use one password for all or a random one each, ticks IGG's agreements for you, and waits for you if IGG shows its human check. Stop works at once, and the screen closes when a run ends."
 }
