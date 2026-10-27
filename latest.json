@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.3.5",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.3.5/apex-2.3.3.5.zip",
-    "sha256":  "55d40b4c7bd41feb256c7f6e3802e1dfb3e39c7ff195ba0f1a3b5ce4cf0c0a55",
-    "notes":  "Fixes the Vecna tab in the real app: the plans, customers and keys sections stayed empty even when the hub answered, and now they load. A scout added from the tab now starts ticked as a Viewer."
+    "version":  "2.3.3.6",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.3.6/apex-2.3.3.6.zip",
+    "sha256":  "ce4e026a42aa9cc2fbbb7d95c367a41feb4b7e2312425ca36f9d0d6d21ec0fc8",
+    "notes":  "Vecna scouts now each keep their own pace limit: they no longer wait in one shared line for the whole machine, which made remote views and sweeps crawl when many scouts ran. The Vecna tab setting is now \"Pace per scout\"."
 }
