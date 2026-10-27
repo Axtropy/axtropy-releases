@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.3.6",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.3.6/apex-2.3.3.6.zip",
-    "sha256":  "ce4e026a42aa9cc2fbbb7d95c367a41feb4b7e2312425ca36f9d0d6d21ec0fc8",
-    "notes":  "Vecna scouts now each keep their own pace limit: they no longer wait in one shared line for the whole machine, which made remote views and sweeps crawl when many scouts ran. The Vecna tab setting is now \"Pace per scout\"."
+    "version":  "2.3.3.7",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.3.7/apex-2.3.3.7.zip",
+    "sha256":  "d12ce8d8378e0da4eae47f877ecc5a186a409adc4b042bfaae06499af3ec5fd7",
+    "notes":  "The Vecna hub now travels inside the Apex update: every update refreshes the hub in the Apex folder (VecnaHub) and restarts it, leaving its settings and data alone. Also: reinforce marches no longer count as fury, rally alerts need a real castle, and changing the kingdom frees viewers on the dropped kingdom at once."
 }
