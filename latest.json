@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.3.1",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.3.1/apex-2.3.3.1.zip",
-    "sha256":  "6d3de8204a2f9cbb38061c581a80fd37cc2c114379eb1c0633312bbef27cfea5",
-    "notes":  "Accounts linked to an IGG login are now signed in again with that same login right after linking, which replaces a stale saved login and clears Invalid Login Information. It is on by default, with a tick box on the Link accounts and Create IGG logins screens. A new Rejected sign-ins button lists accounts that were linked earlier and show that error, and signs them in again from the saved IGG login."
+    "version":  "2.3.3.2",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.3.2/apex-2.3.3.2.zip",
+    "sha256":  "2f15c6a501c4d82b6aebf368ca2c088af53d053b337f8aa03ea2e4a75b3eaa9f",
+    "notes":  "Linking accounts to an IGG login: an account the game says is already linked is now skipped with a clear message instead of failing, no longer counts as a refusal by that login, and is not tried again. Each account appears once per run, and the sign-in-again step is labelled step 2 of 2."
 }
