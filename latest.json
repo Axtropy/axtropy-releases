@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.3.2",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.3.2/apex-2.3.3.2.zip",
-    "sha256":  "2f15c6a501c4d82b6aebf368ca2c088af53d053b337f8aa03ea2e4a75b3eaa9f",
-    "notes":  "Linking accounts to an IGG login: an account the game says is already linked is now skipped with a clear message instead of failing, no longer counts as a refusal by that login, and is not tried again. Each account appears once per run, and the sign-in-again step is labelled step 2 of 2."
+    "version":  "2.3.3.3",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.3.3/apex-2.3.3.3.zip",
+    "sha256":  "13306709b8e1423e6ec1d0d9166317d63168157abcd8350cec018fba2ba3c059",
+    "notes":  "The Link accounts to IGG window is redesigned: it fills the screen and does not scroll, long forms (logins, mailbox, emails, passwords) open in their own windows from a button, and the status tables turn pages with Previous and Next. The IGG record (the Excel file and its working files) now lives in its own folder, config\\IGG logins, and is moved there automatically. Every screen except Fleet now fills the window, so the Health log, Rally, Turf, Supply, Leader and Relay no longer leave a blank band under the status bar."
 }
