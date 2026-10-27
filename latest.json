@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.3.3",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.3.3/apex-2.3.3.3.zip",
-    "sha256":  "13306709b8e1423e6ec1d0d9166317d63168157abcd8350cec018fba2ba3c059",
-    "notes":  "The Link accounts to IGG window is redesigned: it fills the screen and does not scroll, long forms (logins, mailbox, emails, passwords) open in their own windows from a button, and the status tables turn pages with Previous and Next. The IGG record (the Excel file and its working files) now lives in its own folder, config\\IGG logins, and is moved there automatically. Every screen except Fleet now fills the window, so the Health log, Rally, Turf, Supply, Leader and Relay no longer leave a blank band under the status bar."
+    "version":  "2.3.3.4",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.3.4/apex-2.3.3.4.zip",
+    "sha256":  "1259c609a6e176627b56693344f0882070b41b6b663d020898499d37c4bca6a0",
+    "notes":  "The Vecna tab now runs the kingdom tracker from one place: plans, license keys and customers are made and edited in the tab, scouts can be ticked as Viewers so linked accounts cover a kingdom that has no scout of its own, a plan can include several kingdoms with a shared-pool speed, and a button removes scouts that are not accounts on this machine. Apex can start and stop the Vecna hub together with itself (vecna.hub in axtropy.json, off unless set). Vecna scouts now check guild gifts and guild help every 10 hours instead of every 30 seconds, and the original values come back when an account leaves Vecna."
 }
