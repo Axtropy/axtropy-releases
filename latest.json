@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.3.4",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.3.4/apex-2.3.3.4.zip",
-    "sha256":  "1259c609a6e176627b56693344f0882070b41b6b663d020898499d37c4bca6a0",
-    "notes":  "The Vecna tab now runs the kingdom tracker from one place: plans, license keys and customers are made and edited in the tab, scouts can be ticked as Viewers so linked accounts cover a kingdom that has no scout of its own, a plan can include several kingdoms with a shared-pool speed, and a button removes scouts that are not accounts on this machine. Apex can start and stop the Vecna hub together with itself (vecna.hub in axtropy.json, off unless set). Vecna scouts now check guild gifts and guild help every 10 hours instead of every 30 seconds, and the original values come back when an account leaves Vecna."
+    "version":  "2.3.3.5",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.3.5/apex-2.3.3.5.zip",
+    "sha256":  "55d40b4c7bd41feb256c7f6e3802e1dfb3e39c7ff195ba0f1a3b5ce4cf0c0a55",
+    "notes":  "Fixes the Vecna tab in the real app: the plans, customers and keys sections stayed empty even when the hub answered, and now they load. A scout added from the tab now starts ticked as a Viewer."
 }
