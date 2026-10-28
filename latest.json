@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.3.7",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.3.7/apex-2.3.3.7.zip",
-    "sha256":  "d12ce8d8378e0da4eae47f877ecc5a186a409adc4b042bfaae06499af3ec5fd7",
-    "notes":  "The Vecna hub now travels inside the Apex update: every update refreshes the hub in the Apex folder (VecnaHub) and restarts it, leaving its settings and data alone. Also: reinforce marches no longer count as fury, rally alerts need a real castle, and changing the kingdom frees viewers on the dropped kingdom at once."
+    "version":  "2.3.3.8",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.3.8/apex-2.3.3.8.zip",
+    "sha256":  "3370eed4a0869290b4e74e34716b9b1cb3c4e50e3952e88724d75709376aecbe",
+    "notes":  "The Vecna tab has a Switch Vecna off / on button: off stops the hub and every scout (kingdom views are closed) and keeps all settings. An account removed from Vecna now has its kingdom view closed and the settings Vecna switched off put back."
 }
