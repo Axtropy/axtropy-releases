@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.3.8",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.3.8/apex-2.3.3.8.zip",
-    "sha256":  "3370eed4a0869290b4e74e34716b9b1cb3c4e50e3952e88724d75709376aecbe",
-    "notes":  "The Vecna tab has a Switch Vecna off / on button: off stops the hub and every scout (kingdom views are closed) and keeps all settings. An account removed from Vecna now has its kingdom view closed and the settings Vecna switched off put back."
+    "version":  "2.3.3.9",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.3.9/apex-2.3.3.9.zip",
+    "sha256":  "d3f3040c11739b56ba0bbe8febb8b54b223c75b74ecbe761d6d43e8fb2bde3fd",
+    "notes":  "Leader Orders coordination and reliability overhaul: account readiness verification, atomic target coordinate reservations, spatial proximity scheduling, pre-flight target validation, idle account defaults, and quota-safe telemetry."
 }
