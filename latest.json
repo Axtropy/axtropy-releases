@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.4.5",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.4.5/apex-2.3.4.5.zip",
-    "sha256":  "7b6df2cd54a5c737de32fe2c3a02141f96364fd6d490812cbb7155c0037f934b",
-    "notes":  "Leader orders: a bot that is still in a guild buys a migration scroll with guild coins, leaves the guild, then migrates, because the game refuses a migrate out of a protected kingdom from inside a guild. Also carries 2.3.4.4: Shelter return, T1 escort training, Revive Dead Leader, Buy migration scroll button."
+    "version":  "2.3.4.6",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.4.6/apex-2.3.4.6.zip",
+    "sha256":  "25905c8523675d4bfdb8a181d46ab9e5d1a5b76e0c5d3f8a6dfe5420fe4903d9",
+    "notes":  "Watchdog: each update unpacks into a fresh folder, so a leftover update folder that cannot be deleted no longer blocks updates. Also carries 2.3.4.5 (Leader orders leave the guild to migrate) and 2.3.4.4 (Shelter return, T1 escort, Revive Dead Leader, Buy migration scroll)."
 }
