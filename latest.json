@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.4.4",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.4.4/apex-2.3.4.4.zip",
-    "sha256":  "bc3004ca83828e9ec832ed7383ca62065e2872f9faa26693dadfb7f69a6187f4",
-    "notes":  "Leaders: a Leader that went into the Shelter during an attack is brought back after 150 s. Apex's Train Driver keeps T1 Grunts training so a Leader always has an escort. The engine's Revive Dead Leader is switched on. The Leader tab has a Buy migration scroll button for the ticked accounts."
+    "version":  "2.3.4.5",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.4.5/apex-2.3.4.5.zip",
+    "sha256":  "7b6df2cd54a5c737de32fe2c3a02141f96364fd6d490812cbb7155c0037f934b",
+    "notes":  "Leader orders: a bot that is still in a guild buys a migration scroll with guild coins, leaves the guild, then migrates, because the game refuses a migrate out of a protected kingdom from inside a guild. Also carries 2.3.4.4: Shelter return, T1 escort training, Revive Dead Leader, Buy migration scroll button."
 }
