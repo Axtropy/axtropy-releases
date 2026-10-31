@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.4.2",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.4.2/apex-2.3.4.2.zip",
-    "sha256":  "15d2d5816061301f4c5d86d8ae42403f02264597809001934b3b56ed76f9b227",
-    "notes":  "Watchdog: the update now runs off the watchdog\u0027s UI thread, so the watchdog keeps answering while a large fleet stops, and Apex\u0027s Update now always gets an answer. Also carries 2.3.4.1: during an update or deploy stop nothing in Apex starts an account again, and an account that comes back up is stopped again."
+    "version":  "2.3.4.3",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.4.3/apex-2.3.4.3.zip",
+    "sha256":  "812e47381daa902da1f9e6913ea91db51fe3ab74ac13bac85a88d0341d3c967e",
+    "notes":  "!wings in guild chat boots every late rally march just in time (!wings <leader> for one rally). The Leader tab lists only Leaders accounts, why each is not available, and how many are free. Builds ask the guild for help, on by default. The guild bank's recall, relocate, migrate and pos stay off on accounts added while Apex runs. Accounts on proxies the renewed pool no longer lists move to it. Leader capacity publishes why bots are not free."
 }
