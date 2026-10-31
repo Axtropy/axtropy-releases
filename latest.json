@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.4.0",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.4.0/apex-2.3.4.0.zip",
-    "sha256":  "0ad7c135485c01194ae5c4750235381dec8b24aaad7de4d9943fed0daaa2668c",
-    "notes":  "Leader orders: Apex sends its own attack with the lowest troop the account has, and a Leader is never sent alone. Each account gets 5 tries 10 s apart, then the next account takes over. Accounts within 5 tiles send without moving. Leaders defaults: train, heal, shelter and shield when attacked. The crew random relocates when an order ends. Order timer and one line per bot. Supply: banks and Leaders share one square book, a replaced bank is not picked again for the same order, the crew is ranked by kingdom, resources, idle time, tax and then armies out, live timer and one line per bank. Vecna: a removed account goes back to ordinary. IGG: sign-in and register work on the new email-and-code page."
+    "version":  "2.3.4.1",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.4.1/apex-2.3.4.1.zip",
+    "sha256":  "99fe9ab693d42d2f91ebdb6b6c3304381468c80f588184a4ac2bc429d6a116d4",
+    "notes":  "Fleet stop: when an update or a deploy stops the fleet, nothing in Apex starts an account again until it closes, and any account that comes back up during the stop is stopped again. Fixes accounts being started again while a large fleet was stopping for an update."
 }
