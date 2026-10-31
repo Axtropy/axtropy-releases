@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.4.7",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.4.7/apex-2.3.4.7.zip",
-    "sha256":  "3992a16be5cc8717d4ce76af7b06f32ef71a16fd8e7b07f6c4e046c60e0598e8",
-    "notes":  "Accounts ask the guild for help on their research again. Scouts are skipped, and a hung game window can no longer freeze the help ask. Also carries 2.3.4.6 (watchdog unpacks each update into a fresh folder)."
+    "version":  "2.3.4.8",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.4.8/apex-2.3.4.8.zip",
+    "sha256":  "93108e4b8a9845682b6680002e4054d5705c193ef9f9c038cd7d6ecceb9b04ba",
+    "notes":  "Relay at full speed for the self-hosted server: faster order, Leader and settings polls, and egress ceilings raised to runaway tripwires. The default server is now db.axtropy.com. Also carries 2.3.4.7 (research help)."
 }
