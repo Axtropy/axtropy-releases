@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.4.3",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.4.3/apex-2.3.4.3.zip",
-    "sha256":  "812e47381daa902da1f9e6913ea91db51fe3ab74ac13bac85a88d0341d3c967e",
-    "notes":  "!wings in guild chat boots every late rally march just in time (!wings <leader> for one rally). The Leader tab lists only Leaders accounts, why each is not available, and how many are free. Builds ask the guild for help, on by default. The guild bank's recall, relocate, migrate and pos stay off on accounts added while Apex runs. Accounts on proxies the renewed pool no longer lists move to it. Leader capacity publishes why bots are not free."
+    "version":  "2.3.4.4",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.4.4/apex-2.3.4.4.zip",
+    "sha256":  "bc3004ca83828e9ec832ed7383ca62065e2872f9faa26693dadfb7f69a6187f4",
+    "notes":  "Leaders: a Leader that went into the Shelter during an attack is brought back after 150 s. Apex's Train Driver keeps T1 Grunts training so a Leader always has an escort. The engine's Revive Dead Leader is switched on. The Leader tab has a Buy migration scroll button for the ticked accounts."
 }
