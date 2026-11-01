@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.4.8",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.4.8/apex-2.3.4.8.zip",
-    "sha256":  "93108e4b8a9845682b6680002e4054d5705c193ef9f9c038cd7d6ecceb9b04ba",
-    "notes":  "Relay at full speed for the self-hosted server: faster order, Leader and settings polls, and egress ceilings raised to runaway tripwires. The default server is now db.axtropy.com. Also carries 2.3.4.7 (research help)."
+    "version":  "2.3.4.9",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.4.9/apex-2.3.4.9.zip",
+    "sha256":  "bc25dfacab3e9f3cda14a18bc8f5c4f8a390ece40e41d74a9932eac0b9d134a7",
+    "notes":  "Guilds: create or join a home guild for our accounts, and a keeper keeps them in it. Rename: default-named accounts get a free name on their own, plus a bulk rename. Client account logs kept 24 h. Turf buildings unlocked. New-account quest, turf and research defaults. Vecna Baron and Chalice district lists, with the new hub inside this update."
 }
