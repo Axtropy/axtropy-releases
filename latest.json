@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.4.9",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.4.9/apex-2.3.4.9.zip",
-    "sha256":  "bc25dfacab3e9f3cda14a18bc8f5c4f8a390ece40e41d74a9932eac0b9d134a7",
-    "notes":  "Guilds: create or join a home guild for our accounts, and a keeper keeps them in it. Rename: default-named accounts get a free name on their own, plus a bulk rename. Client account logs kept 24 h. Turf buildings unlocked. New-account quest, turf and research defaults. Vecna Baron and Chalice district lists, with the new hub inside this update."
+    "version":  "2.3.5.0",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.5.0/apex-2.3.5.0.zip",
+    "sha256":  "e9397e169e28cabe29a63ceac50dc40c29d26eabfc26b6fe2059a6ff8ac80845",
+    "notes":  "Leader orders: availability counts what a move costs, bots gather in open ground near the target, suppliers and Leaders share one pool, the Leader tab shows each account\u0027s reach, and shield when attacked is the default. Supply: banks per order is a minimum set per package (Supply tab and operator panel); no delivery-time rule. Vecna: the hub mirrors its data to the server."
 }
