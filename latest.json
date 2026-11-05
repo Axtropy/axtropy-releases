@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.6.2",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.6.2/apex-2.3.6.2.zip",
-    "sha256":  "c8816fe19eed9efcce428a4c3cfa89def11cef3b0cd73c077134f274d88f5e6c",
-    "notes":  "The IGG login record that Link accounts to IGG and Create IGG logins keep is now backed up to the server on Axtropy\u0027s own machines, sealed there, so it survives losing the machine and can be viewed and downloaded from the Axtropy panel. Nothing is sent from any other organisation\u0027s machine."
+    "version":  "2.3.6.3",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.6.3/apex-2.3.6.3.zip",
+    "sha256":  "be713a2fd86f53d767c0bc1a8141e6f17e9ddec951b764460cdd0d6df0f6f79b",
+    "notes":  "Events: a dedicated Apex events card holds the Roulette wheel, Arcane Cipher and Storm Fox rescue switches, taken out of the Exchange card."
 }
