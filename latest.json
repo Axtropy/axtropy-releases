@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.6.0",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.6.0/apex-2.3.6.0.zip",
-    "sha256":  "ae105c2ed1c7a5bd43f40a8aae0cc52d90c4b872b92afac5f695f2718594a111",
-    "notes":  "War mode: Apex\u0027s own War mode switch (rally fill, carpets, reinforce, gear switch, guild chat) replaces the engine\u0027s war mode. Events: Arcane Cipher pass claims, Storm Fox rescue, and turf quests are now claimed by Apex itself (a Claim turf quests toggle in Setup; the engine\u0027s own turf collector is switched off). Tag bar: Jump to tag finder, pinned tags, Ctrl+click for more than one. A one-character setting such as the command prefix can no longer be saved with more than one character, which had stopped an account on load. Server: matching relay checks and tables."
+    "version":  "2.3.6.1",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.6.1/apex-2.3.6.1.zip",
+    "sha256":  "c33737459e809c812795386b5e86e426ca8d87d6626b189ff98efe91c2bec9d3",
+    "notes":  "Taiwan: accounts on the Taiwan server get their own game version. Apex sets the engine\u0027s Taiwan version separately, takes it from the server, proves it with a Taiwan account\u0027s own login and tries one step up when it is refused, and a refused Taiwan account no longer counts against the normal version. The portal IGG login import can ask for the Taiwan server. Rental stop only acts on accounts that are really running and knows whose rental ended. The delete confirmation, the engine notice, the template and form editors and the device import no longer run off the screen when the list is long."
 }
