@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.6.1",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.6.1/apex-2.3.6.1.zip",
-    "sha256":  "c33737459e809c812795386b5e86e426ca8d87d6626b189ff98efe91c2bec9d3",
-    "notes":  "Taiwan: accounts on the Taiwan server get their own game version. Apex sets the engine\u0027s Taiwan version separately, takes it from the server, proves it with a Taiwan account\u0027s own login and tries one step up when it is refused, and a refused Taiwan account no longer counts against the normal version. The portal IGG login import can ask for the Taiwan server. Rental stop only acts on accounts that are really running and knows whose rental ended. The delete confirmation, the engine notice, the template and form editors and the device import no longer run off the screen when the list is long."
+    "version":  "2.3.6.2",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.6.2/apex-2.3.6.2.zip",
+    "sha256":  "c8816fe19eed9efcce428a4c3cfa89def11cef3b0cd73c077134f274d88f5e6c",
+    "notes":  "The IGG login record that Link accounts to IGG and Create IGG logins keep is now backed up to the server on Axtropy\u0027s own machines, sealed there, so it survives losing the machine and can be viewed and downloaded from the Axtropy panel. Nothing is sent from any other organisation\u0027s machine."
 }
