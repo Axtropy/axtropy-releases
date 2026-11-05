@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.5.0",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.5.0/apex-2.3.5.0.zip",
-    "sha256":  "e9397e169e28cabe29a63ceac50dc40c29d26eabfc26b6fe2059a6ff8ac80845",
-    "notes":  "Leader orders: availability counts what a move costs, bots gather in open ground near the target, suppliers and Leaders share one pool, the Leader tab shows each account\u0027s reach, and shield when attacked is the default. Supply: banks per order is a minimum set per package (Supply tab and operator panel); no delivery-time rule. Vecna: the hub mirrors its data to the server."
+    "version":  "2.3.6.0",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.6.0/apex-2.3.6.0.zip",
+    "sha256":  "ae105c2ed1c7a5bd43f40a8aae0cc52d90c4b872b92afac5f695f2718594a111",
+    "notes":  "War mode: Apex\u0027s own War mode switch (rally fill, carpets, reinforce, gear switch, guild chat) replaces the engine\u0027s war mode. Events: Arcane Cipher pass claims, Storm Fox rescue, and turf quests are now claimed by Apex itself (a Claim turf quests toggle in Setup; the engine\u0027s own turf collector is switched off). Tag bar: Jump to tag finder, pinned tags, Ctrl+click for more than one. A one-character setting such as the command prefix can no longer be saved with more than one character, which had stopped an account on load. Server: matching relay checks and tables."
 }
