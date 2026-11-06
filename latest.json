@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.6.3",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.6.3/apex-2.3.6.3.zip",
-    "sha256":  "be713a2fd86f53d767c0bc1a8141e6f17e9ddec951b764460cdd0d6df0f6f79b",
-    "notes":  "Events: a dedicated Apex events card holds the Roulette wheel, Arcane Cipher and Storm Fox rescue switches, taken out of the Exchange card."
+    "version":  "2.3.6.4",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.6.4/apex-2.3.6.4.zip",
+    "sha256":  "34037380007d61cfdc581b97cd591a324beffdcc677b7cb109e63db3ef6cf4b4",
+    "notes":  "Fix: the turf claimer, Arcane Cipher claimer and Storm Fox rescue no longer starve each other on a large fleet. Pacing is per account, and the turf claimer sends one claim per tick without sleeping. The Exchange card starts collapsed and the settings search box keeps typed text left-aligned."
 }
