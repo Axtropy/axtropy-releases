@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.6.4",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.6.4/apex-2.3.6.4.zip",
-    "sha256":  "34037380007d61cfdc581b97cd591a324beffdcc677b7cb109e63db3ef6cf4b4",
-    "notes":  "Fix: the turf claimer, Arcane Cipher claimer and Storm Fox rescue no longer starve each other on a large fleet. Pacing is per account, and the turf claimer sends one claim per tick without sleeping. The Exchange card starts collapsed and the settings search box keeps typed text left-aligned."
+    "version":  "2.3.6.5",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.6.5/apex-2.3.6.5.zip",
+    "sha256":  "5fea8d8d9c8ffa165463f9ebd4d896b93029e93a772ea3f683c334aadcf33271",
+    "notes":  "Fix: supply orders no longer sit at picked. Supply banks are ticked on their own thread instead of once per 15-20 minute fleet pass. Pressing Stop on Link accounts no longer ends Apex."
 }
