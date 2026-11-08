@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.6.5",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.6.5/apex-2.3.6.5.zip",
-    "sha256":  "5fea8d8d9c8ffa165463f9ebd4d896b93029e93a772ea3f683c334aadcf33271",
-    "notes":  "Fix: supply orders no longer sit at picked. Supply banks are ticked on their own thread instead of once per 15-20 minute fleet pass. Pressing Stop on Link accounts no longer ends Apex."
+    "version":  "2.3.6.6",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.6.6/apex-2.3.6.6.zip",
+    "sha256":  "a2df039142d5373cfbd426224bd680b58d55263dcfce231e6b6e34f4d1d5fd0a",
+    "notes":  "Server mode (Linux Wine/box64 headless with web console relay), web proxy editor modal, fleet manifest with clean account deletion persistence, and immediate startup for loaded autostart accounts."
 }
