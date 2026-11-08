@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.6.6",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.6.6/apex-2.3.6.6.zip",
-    "sha256":  "a2df039142d5373cfbd426224bd680b58d55263dcfce231e6b6e34f4d1d5fd0a",
-    "notes":  "Server mode (Linux Wine/box64 headless with web console relay), web proxy editor modal, fleet manifest with clean account deletion persistence, and immediate startup for loaded autostart accounts."
+    "version":  "2.3.6.7",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.6.7/apex-2.3.6.7.zip",
+    "sha256":  "f650a3c77e05d75f43e9ca267bb0581e851eb710b914a3e597bd4eb1fb27ac78",
+    "notes":  "New Proxies page (paste a list with Ctrl+V, real proxy check, delete invalid proxies). Import > Device ID is now an Apex dialog. Health has an Auto updates on/off switch; it takes effect once a machine has this update's watchdog."
 }
