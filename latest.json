@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.6.9",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.6.9/apex-2.3.6.9.zip",
-    "sha256":  "f8670b4877a533d673e270f669abf3fcabdfb4bc51a1791293e8b53b46cf5554",
-    "notes":  "Supply: banks leave their old guild before migrating, and gather on the nearest free squares around the customer instead of a fixed 24-square ring. A basket that ends short now cancels the game\u0027s own send before the rest goes to another bank, so stock is no longer sent twice and left uncounted. A stock reading too low for the basket no longer sends. Supply tab: order any amount per resource, in billions, and retry a retired bank from its order card. The Linux-only fleet manifest and account limit are no longer in the Windows build."
+    "version":  "2.3.7.0",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.7.0/apex-2.3.7.0.zip",
+    "sha256":  "fd0ff67323028035ef33cc3b8b0df8cbb6127f23a9271eb45a0f5eec475f3aea",
+    "notes":  "Apex can run without its own window on Windows. With APEX_NO_WEBVIEW=1 and APEX_RELAY_URL set in secrets.env, Apex starts no WebView2, shows no window of its own (a tray icon stands in, with Open Apex and Quit Apex), and is operated from the website console, as Server02 is. A machine without those settings behaves exactly as 2.3.6.9 did. The Linux-only fleet manifest and account limit stay out of the Windows build."
 }
