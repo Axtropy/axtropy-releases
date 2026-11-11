@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.6.7",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.6.7/apex-2.3.6.7.zip",
-    "sha256":  "f650a3c77e05d75f43e9ca267bb0581e851eb710b914a3e597bd4eb1fb27ac78",
-    "notes":  "New Proxies page (paste a list with Ctrl+V, real proxy check, delete invalid proxies). Import > Device ID is now an Apex dialog. Health has an Auto updates on/off switch; it takes effect once a machine has this update's watchdog."
+    "version":  "2.3.6.9",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.6.9/apex-2.3.6.9.zip",
+    "sha256":  "f8670b4877a533d673e270f669abf3fcabdfb4bc51a1791293e8b53b46cf5554",
+    "notes":  "Supply: banks leave their old guild before migrating, and gather on the nearest free squares around the customer instead of a fixed 24-square ring. A basket that ends short now cancels the game\u0027s own send before the rest goes to another bank, so stock is no longer sent twice and left uncounted. A stock reading too low for the basket no longer sends. Supply tab: order any amount per resource, in billions, and retry a retired bank from its order card. The Linux-only fleet manifest and account limit are no longer in the Windows build."
 }
