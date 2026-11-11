@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.7.1",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.7.1/apex-2.3.7.1.zip",
-    "sha256":  "6b689cef0311dd40f5e1c1a0ca877466f09c725d92e997e1093c9611bb148056",
-    "notes":  "A castle under 17 is no longer offered as a Leader. The Leader tab, order claims, crew and replacement picks and the portal count all skip it, even when it is already in range."
+    "version":  "2.3.7.2",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.7.2/apex-2.3.7.2.zip",
+    "sha256":  "21ba358841a8ccbe69f1958d2021e16fa7d52d1de4d1fba941d365d61a88ebf3",
+    "notes":  "An engine question that needs an answer now appears in Apex, on the website too, with the same buttons and fields: the join delay is a number box with quick picks, and Yes/No boxes are Yes/No buttons. Nobody has to be at the machine: an unanswered question is answered with its safe default (Cancel or No) after 20 seconds, and a box that asks to back up a file before a reset is answered Yes. The engine\u0027s second Delete Accounts confirmation is answered Yes after Apex\u0027s own confirmation. A whole number too large for the engine is no longer written into a setting."
 }
