@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.7.0",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.7.0/apex-2.3.7.0.zip",
-    "sha256":  "fd0ff67323028035ef33cc3b8b0df8cbb6127f23a9271eb45a0f5eec475f3aea",
-    "notes":  "Apex can run without its own window on Windows. With APEX_NO_WEBVIEW=1 and APEX_RELAY_URL set in secrets.env, Apex starts no WebView2, shows no window of its own (a tray icon stands in, with Open Apex and Quit Apex), and is operated from the website console, as Server02 is. A machine without those settings behaves exactly as 2.3.6.9 did. The Linux-only fleet manifest and account limit stay out of the Windows build."
+    "version":  "2.3.7.1",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.7.1/apex-2.3.7.1.zip",
+    "sha256":  "6b689cef0311dd40f5e1c1a0ca877466f09c725d92e997e1093c9611bb148056",
+    "notes":  "A castle under 17 is no longer offered as a Leader. The Leader tab, order claims, crew and replacement picks and the portal count all skip it, even when it is already in range."
 }
