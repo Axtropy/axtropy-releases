@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.7.5",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.7.5-linux/apex-2.3.7.5-linux.zip",
-    "sha256":  "c3552c32ee9497c8bfbb9b2daa3cb950b37ec833583e9b1edd3ebeb1edc1705a",
-    "notes":  "Copy device ids and Copy IGG ids now copy onto the clipboard of the browser that asked, not the machine\u0027s. Linux build: no tray icon or browser launch under Wine, and no account cap."
+    "version":  "2.3.7.6",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.7.6-linux/apex-2.3.7.6-linux.zip",
+    "sha256":  "ccea948ca8b3968952b149cdc3b8484f50020594718d5e97081e52bb8adadf22",
+    "notes":  "Engine pop-ups such as Join Guild, opened through the relay, are shown on the page and filled in there. A restart brings each account back as it was left: running ones run, ones you stopped stay stopped. Linux build: no tray icon or browser launch under Wine, and no account cap."
 }
