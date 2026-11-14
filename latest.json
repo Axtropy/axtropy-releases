@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.7.3",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.7.3/apex-2.3.7.3.zip",
-    "sha256":  "3bf9a7a44c7e07f78732e3abb7b8670e721f82d846c61146fc43b09fb8c8246e",
-    "notes":  "Each account now has a workspace: a Map of its armies (what each is gathering, level, troops, time left, with Recall all) beside Resources, and an Expand button that opens the full page for the account. The Guild tab shows the guild, its chat with emoji as pictures, a Guild or Global switch, and a Join or Create card. Resources show their pictures. A chat message that the game refuses is now reported instead of shown as sent."
+    "version":  "2.3.7.4",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.7.4/apex-2.3.7.4.zip",
+    "sha256":  "5b32d0b5c058d74674c98e736c9103fdbde8b82fabf8bc7431a9bd32a1bea656",
+    "notes":  "Select several proxies or accounts the way Windows does: drag over rows, Shift and Ctrl click, Shift with the arrow keys, Ctrl+A, then Delete. Proxies can also be copied or checked as a selection. Clicking an account row now selects just that row; the tick box still toggles."
 }
