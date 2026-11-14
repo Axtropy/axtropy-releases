@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.7.5",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.7.5/apex-2.3.7.5.zip",
-    "sha256":  "4cd1ab60be3a68d5b646aec33aa4e75c0c1f747aaa9ad7cbf5e3e292dfb6c611",
-    "notes":  "Copy device ids and Copy IGG ids now copy onto the clipboard of the browser that asked, not the machine\u0027s, so they work from the relay console. Copy IGG ids also covers the whole selection."
+    "version":  "2.3.7.6",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.7.6/apex-2.3.7.6.zip",
+    "sha256":  "0ef2b0380aaca2a751e2466831ac15e5c109fbe6bd5036920e42a8f79e734d33",
+    "notes":  "Engine pop-ups such as Join Guild, opened through the relay, are shown on the page and filled in there, instead of sitting unseen on the machine."
 }
