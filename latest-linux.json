@@ -1,0 +1,6 @@
+{
+    "version":  "2.3.7.4",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.7.4-linux/apex-2.3.7.4-linux.zip",
+    "sha256":  "28c9029d8fe5ffd50ff2354913cff6f2793b125e9226099ac83b7c6d0f59575c",
+    "notes":  "Linux build of 2.3.7.4 for the headless Wine nodes: no tray icon or browser launch under Wine, and no account cap."
+}
