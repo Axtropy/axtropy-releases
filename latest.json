@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.7.6",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.7.6/apex-2.3.7.6.zip",
-    "sha256":  "0ef2b0380aaca2a751e2466831ac15e5c109fbe6bd5036920e42a8f79e734d33",
-    "notes":  "Engine pop-ups such as Join Guild, opened through the relay, are shown on the page and filled in there, instead of sitting unseen on the machine."
+    "version":  "2.3.7.7",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.7.7/apex-2.3.7.7.zip",
+    "sha256":  "9291ff1045869af024aa6cbd2ec6c5684f1c90356a47560bd21ed45bf318a0fe",
+    "notes":  "Accounts parked on the castle 4 chain now walk it to the Vergeway\u0027s key item by themselves and carry on to castle 5. New accounts wait 70 seconds, not 30, before reconnecting after someone else logs in. A login on an account no longer sends a Telegram alert."
 }
