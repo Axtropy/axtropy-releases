@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.7.6",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.7.6-linux/apex-2.3.7.6-linux.zip",
-    "sha256":  "ccea948ca8b3968952b149cdc3b8484f50020594718d5e97081e52bb8adadf22",
-    "notes":  "Engine pop-ups such as Join Guild, opened through the relay, are shown on the page and filled in there. A restart brings each account back as it was left: running ones run, ones you stopped stay stopped. Linux build: no tray icon or browser launch under Wine, and no account cap."
+    "version":  "2.3.7.7",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.7.7-linux/apex-2.3.7.7-linux.zip",
+    "sha256":  "a6caed629f6d03384697f6412cc626d89a2de37e57df5cde4b8a312e16f018c4",
+    "notes":  "Accounts parked on the castle 4 chain now walk it to the Vergeway\u0027s key item by themselves and carry on to castle 5. New accounts wait 70 seconds, not 30, before reconnecting after someone else logs in. A login on an account no longer sends a Telegram alert. Linux build: no tray icon or browser launch under Wine, and no account cap."
 }
