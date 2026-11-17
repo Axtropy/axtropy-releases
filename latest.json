@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.7.7",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.7.7/apex-2.3.7.7.zip",
-    "sha256":  "9291ff1045869af024aa6cbd2ec6c5684f1c90356a47560bd21ed45bf318a0fe",
-    "notes":  "Accounts parked on the castle 4 chain now walk it to the Vergeway\u0027s key item by themselves and carry on to castle 5. New accounts wait 70 seconds, not 30, before reconnecting after someone else logs in. A login on an account no longer sends a Telegram alert."
+    "version":  "2.3.8.0",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.8.0/apex-2.3.8.0.zip",
+    "sha256":  "8bbfa5c14b7017bae7c2ad45e9a0d39cc21132eb6a85e5737683d607757115cc",
+    "notes":  "Fixes a crash that restarted Apex every few minutes on large fleets: a half-started account could kill the whole process. Apex now keeps its per-account logs folder under 1 GB so it cannot fill the disk. Applying a template no longer fails on every account when the template holds an empty section."
 }
