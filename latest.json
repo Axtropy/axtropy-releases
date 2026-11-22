@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.8.2",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.8.2/apex-2.3.8.2.zip",
-    "sha256":  "b65f9470e487ed2108e1de7caf5787ef1bf752cde771433c287d96c9b8860d4a",
-    "notes":  "Fleet list: a new Client column shows who rents each account, with the time left (green, amber under two days), or who rented it last once the rental has ended (red, with the date). Click a client to show only their accounts. An organisation's clients are listed only inside that organisation. If the Apex window goes blank because its browser process died, it is rebuilt. Changed cells flash once per update instead of once per cell."
+    "version":  "2.3.8.3",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.8.3/apex-2.3.8.3.zip",
+    "sha256":  "0b3cf41de79b66c683b631063238b87a3bbeb67cdea6cb6675646915468f269c",
+    "notes":  "Import accounts: a new tab in More \u003e Link accounts to IGG imports a whole csv or xlsx of email, password and IGG id, in random order, in the background. You set the wait between imports on the screen (default 2 to 5 minutes, at least 0.5). Two accounts of one login are spread out between other logins, an account already in the fleet is skipped, and a stop is continued by loading the file again. If IGG shows its human check the run stops; Apex never answers it."
 }
