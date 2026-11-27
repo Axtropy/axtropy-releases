@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.8.3",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.8.3/apex-2.3.8.3.zip",
-    "sha256":  "0b3cf41de79b66c683b631063238b87a3bbeb67cdea6cb6675646915468f269c",
-    "notes":  "Import accounts: a new tab in More \u003e Link accounts to IGG imports a whole csv or xlsx of email, password and IGG id, in random order, in the background. You set the wait between imports on the screen (default 2 to 5 minutes, at least 0.5). Two accounts of one login are spread out between other logins, an account already in the fleet is skipped, and a stop is continued by loading the file again. If IGG shows its human check the run stops; Apex never answers it."
+    "version":  "2.3.8.4",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.8.4/apex-2.3.8.4.zip",
+    "sha256":  "3a904e610acb2b5fbf1fa73dc5eef7388645be746b9efa7364f9e82737066925",
+    "notes":  "Supply tab redesigned for fast manual use: paste a location from the game, Enter moves between fields, Ctrl+Enter starts, quick package presets and a package manager, live stock coverage per resource, and a Status column that says why each bank is or is not used. A supply order no longer stops with 'customer is no longer in the guild' while the customer is still there: banks now ask the game for a fresh guild list and read it twice before ending an order. The cart flag no longer marks a bank ineligible; the Carts column shows free march slots. Only castle 17 and above can be sent as a Leader."
 }
