@@ -1,6 +1,6 @@
 {
-    "version":  "2.3.8.4",
-    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.8.4/apex-2.3.8.4.zip",
-    "sha256":  "3a904e610acb2b5fbf1fa73dc5eef7388645be746b9efa7364f9e82737066925",
-    "notes":  "Supply tab redesigned for fast manual use: paste a location from the game, Enter moves between fields, Ctrl+Enter starts, quick package presets and a package manager, live stock coverage per resource, and a Status column that says why each bank is or is not used. A supply order no longer stops with 'customer is no longer in the guild' while the customer is still there: banks now ask the game for a fresh guild list and read it twice before ending an order. The cart flag no longer marks a bank ineligible; the Carts column shows free march slots. Only castle 17 and above can be sent as a Leader."
+    "version":  "2.3.8.5",
+    "url":  "https://github.com/Axtropy/axtropy-releases/releases/download/v2.3.8.5/apex-2.3.8.5.zip",
+    "sha256":  "8778c7e8d204aeae6a5ab89e456b0bfb1ded45ec1e84d2abae6efa440bff8e7f",
+    "notes":  "IGG changed its sign-in screen again. Apex now presses 'Login with Password' on the new email-and-code screen when it signs an account in or links one. Creating IGG logins now signs up straight on that screen: it enters the email, sends the code, enters the code and presses 'Log in/Sign Up'."
 }
